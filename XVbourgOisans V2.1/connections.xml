@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<ConnectionManager xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FtpConnections>
+    <FtpConnection>
+      <Guid>7b0c014b-77c3-4e44-918a-ac5308e14873</Guid>
+      <Name>Ftp</Name>
+      <Host>192.168.0.33</Host>
+      <Username />
+      <Port>21</Port>
+      <Timeout>15</Timeout>
+      <DestinationFolder>\InternalStorage</DestinationFolder>
+      <Mode>Passive</Mode>
+    </FtpConnection>
+  </FtpConnections>
+  <Folders />
+  <WebApiConnections>
+    <WebApiConnection>
+      <Guid>70dc7fe2-09d6-4be1-93a5-99efd066ffd9</Guid>
+      <Name>XVbourgOisans</Name>
+      <Host>192.168.1.210</Host>
+      <Username>admin</Username>
+      <Port>8375</Port>
+      <Timeout>240</Timeout>
+      <DestinationFolder />
+      <TrustServerCertificate>false</TrustServerCertificate>
+    </WebApiConnection>
+  </WebApiConnections>
+  <LastUsedTarget>70dc7fe2-09d6-4be1-93a5-99efd066ffd9</LastUsedTarget>
+  <KeepAutoexec>false</KeepAutoexec>
+  <DownloadSourceAsZip>false</DownloadSourceAsZip>
+  <PasswordProtection>false</PasswordProtection>
+  <StopRunningGrs>true</StopRunningGrs>
+  <RestartGrs>true</RestartGrs>
+  <WaitTimeAfterShutdown>2</WaitTimeAfterShutdown>
+  <UploadRecipes>false</UploadRecipes>
+  <UploadUserManagement>false</UploadUserManagement>
+</ConnectionManager>
