@@ -1,0 +1,10 @@
+﻿# Backup definition file. Paths can be absolute or relative to the folder containing this file.
+# Each line in this file defines a file or files to be included in the backup and is in the format:
+# 'path/to/file/to/back/up'
+# Optionally you can specify how symlinks should be handled:
+#   symlinks=no-dereference (default if symlink handling is not specified)
+#   symlinks=dereference
+#   symlinks=ignore
+# e.g 'path/to/file/to/back/up';symlinks=dereference
+# Paths can contain wildcards '*' or '?', all other characters are treated literally. Paths containing literal symbols *, ?, \, ' are not supported.
+'data/XVbourgOisans V2.1.pwm'

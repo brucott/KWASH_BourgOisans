@@ -1,5 +1,5 @@
 <StandardScreen Guid="f73941e5-1bd1-4da9-ae1e-37148dd22ad2" Res="[800 480]" ScreenColor="[255 192 192 192]" ActiveSet="df025fe9-2bad-468b-8da3-86d6af2191b3" Name="Counters" No="3" Version="[11.0.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="561100d7-339a-4510-95bf-1b945f2ad13d">
-  <Checksum Value="2995871011" />
+  <Checksum Value="3741023190" />
   <Text Guid="c1fe5100-79b0-48d4-b59c-657ebb4e3da2" LockedPosition="0" ControlSet="df025fe9-2bad-468b-8da3-86d6af2191b3" Name="" Anchor="5" X_PropType="0" X_Value="305" Y_PropType="0" Y_Value="8" Width_PropType="0" Width_Value="188" Height_PropType="0" Height_Value="32">
     <State Guid="556ff77e-90a7-4cbb-afc0-d3ddf8aadaad" Name="Text" Version="[1.1.0]">
       <ColorDecorator Guid="8b8714da-3238-41d0-98ea-2910448cb918" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
@@ -264,7 +264,7 @@
       <IconImageDecorator Guid="adb6c7fb-354d-47ba-9e0e-c12d48f09374" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="a7ca386f-cd7e-477f-a852-c3fdc36cb395" TriggerData_PropType="1" Margins="[5px, 5px, 5px, 5px]" />
     </State>
   </MenuButton>
-  <ControlUserControl Guid="80b43d6c-6255-4346-a589-02dc07598640" LockedPosition="0" ControlSet="df025fe9-2bad-468b-8da3-86d6af2191b3" Name="" Anchor="5" BackColor="[0 255 255 255]" ResizeMode="0" AlignmentForUniformStretch="1" X_PropType="0" X_Value="706" Y_PropType="0" Y_Value="0" Width_PropType="0" Width_Value="94" Height_PropType="0" Height_Value="48">
+  <ControlUserControl Guid="80b43d6c-6255-4346-a589-02dc07598640" LockedPosition="0" ControlSet="df025fe9-2bad-468b-8da3-86d6af2191b3" Name="" Anchor="5" BackColor="[0 255 255 255]" ResizeMode="0" AlignmentForUniformStretch="1" X_PropType="0" X_Value="680" Y_PropType="0" Y_Value="0" Width_PropType="0" Width_Value="120" Height_PropType="0" Height_Value="60">
     <SubScreenEntry Guid="8584a8d1-d6d4-4818-b8ab-be31e07ef01d" SubScreen="3627ec8c-eb82-4f2c-8032-5f1705e61196" Name="">
       <SSAC Guid="8689087b-226c-4900-b149-783f395b13a5" />
     </SubScreenEntry>

@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<ConnectionManager xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version="1.0" encoding="utf-8"?>
+<ConnectionManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <FtpConnections>
     <FtpConnection>
       <Guid>7b0c014b-77c3-4e44-918a-ac5308e14873</Guid>
@@ -15,6 +15,16 @@
   <Folders />
   <WebApiConnections>
     <WebApiConnection>
+      <Guid>49592a53-f422-4fe2-a0a7-1a1b255cce1a</Guid>
+      <Name>XV100_Bureau</Name>
+      <Host>192.168.0.43</Host>
+      <Username>admin</Username>
+      <Port>8375</Port>
+      <Timeout>240</Timeout>
+      <DestinationFolder />
+      <TrustServerCertificate>false</TrustServerCertificate>
+    </WebApiConnection>
+    <WebApiConnection>
       <Guid>70dc7fe2-09d6-4be1-93a5-99efd066ffd9</Guid>
       <Name>XVbourgOisans</Name>
       <Host>192.168.1.210</Host>
@@ -25,7 +35,8 @@
       <TrustServerCertificate>false</TrustServerCertificate>
     </WebApiConnection>
   </WebApiConnections>
-  <LastUsedTarget>70dc7fe2-09d6-4be1-93a5-99efd066ffd9</LastUsedTarget>
+  <SshConnections />
+  <LastUsedTarget>49592a53-f422-4fe2-a0a7-1a1b255cce1a</LastUsedTarget>
   <KeepAutoexec>false</KeepAutoexec>
   <DownloadSourceAsZip>false</DownloadSourceAsZip>
   <PasswordProtection>false</PasswordProtection>

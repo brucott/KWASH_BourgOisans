@@ -1,5 +1,5 @@
 <TagManager Guid="0e7c4593-09fd-4f39-a2f2-1cf19265b157">
-  <Checksum Value="1498186526" />
+  <Checksum Value="4162144821" />
   <CommTags>
     <CommTagsDict CommKey="0">
       <TagContainer Guid="deef41da-5d6d-4788-8ccc-4a70021adac1" Name="0. Modbus TCP easyE4">
@@ -480,6 +480,56 @@
           </LimitBit>
           <TagAddress Guid="f71ac41f-f5a6-4fdc-b378-6e1e21c1d813" IsActive="1" Syntax="MI%d" Param1="29" Param2="" Param3="" Param4="" Param5="" UseStdName="0" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
         </BitTag>
+        <BitArray Guid="d20a95b9-df62-4e0d-b73e-857ec3cdc07f" Name="M033_M048" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" StartIndex="33">
+          <LimitBit Guid="a69e2697-6889-490b-b151-1b3f7b56ca66" OpenLimit="1" Signed="1" PresetVal="0">
+            <LimitSettingIntegral Guid="2283b208-0046-441e-b31a-80aef524e6ca" Type="0" Id="0" Value="0" />
+            <LimitSettingIntegral Guid="de36788c-5069-42f7-8f0b-a45b35edeb95" Type="0" Id="1" Value="0" />
+            <LimitSettingIntegral Guid="eb386d8e-7ab3-4a96-800a-6ccc8ee86728" Type="0" Id="2" Value="1" />
+            <LimitSettingIntegral Guid="1471d9c5-0d57-458d-93c1-4acc819a5018" Type="0" Id="3" Value="1" />
+          </LimitBit>
+          <TagAddress Guid="48c687bf-718b-426a-b0dc-b7e5e1c7d4f0" IsActive="1" Syntax="R%d.%d" Param1="1003" Param2="0" Param3="" Param4="" Param5="" UseStdName="0" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
+          <ArrElem Guid="5149fb16-50c5-4b3f-8ce1-6121d268c8e2" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="6b565c4e-e179-4ef4-9a08-ad1496c71222" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="6d072202-8f8f-46a1-8507-e7bb5d6cc4f6" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="584e0c0c-0f01-460f-beb7-87b753cd80c1" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="97b921af-2704-40a5-bd81-3605a245d4d2" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="befac1d6-d1d1-4d27-949a-8c3f3a7830d0" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="a6853ee0-a0e8-416c-8426-5d44d12e29ce" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="ecebb954-93b4-4dff-9e95-83548ab29355" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="56c8f597-e171-4184-9012-ea29442159a3" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="ca4e5cf2-9159-44a9-885a-54caee009a61" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="ee9bda3b-194e-4c4a-871c-c87770296014" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="00939062-fe0a-48b2-8934-6c6acfab2e0e" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="a3423882-6398-4ec0-a867-627eede61224" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="17f0b556-0353-4822-b728-928f7374d5e5" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="f9a969d0-ae31-413d-9ba2-4e4435ba0ae2" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="005daead-98b7-453a-a1c0-87a88616f4ce" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+        </BitArray>
+        <BitArray Guid="6c28b3f6-3a7c-433f-bd0d-b365da83e97f" Name="M065_M080" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" StartIndex="65">
+          <LimitBit Guid="8963c082-a9d4-459f-bfb4-cf5424dae21a" OpenLimit="1" Signed="1" PresetVal="0">
+            <LimitSettingIntegral Guid="e8f63f28-3a7d-4f4b-a5d0-b9017e877f4a" Type="0" Id="0" Value="0" />
+            <LimitSettingIntegral Guid="2515870d-230d-4c70-97b6-9d5c4040a95c" Type="0" Id="1" Value="0" />
+            <LimitSettingIntegral Guid="7acea8ce-4481-467b-9560-8591d623cf9c" Type="0" Id="2" Value="1" />
+            <LimitSettingIntegral Guid="d085786c-c846-4637-b91d-57f1be5b96a4" Type="0" Id="3" Value="1" />
+          </LimitBit>
+          <TagAddress Guid="4b455d81-4cc9-4e8a-a088-82d9e2164b95" IsActive="1" Syntax="R%d.%d" Param1="1005" Param2="0" Param3="" Param4="" Param5="" UseStdName="0" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
+          <ArrElem Guid="868a1e50-f5d3-49c7-8266-1c66f395a6b0" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="e749f751-6313-474b-8a1d-bfcf4cb9faed" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="77cece6e-a58b-4f93-a7c1-882f32f7a872" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="a4c55dc3-f3cd-4930-b1a1-7cdb3fe35355" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="e2b01bb5-e2ad-4332-8f79-59f981fa6578" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="f3871505-3c40-4a87-b1c6-7569d0c45d55" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="7fb88605-7306-41bb-ace6-1502ad25803b" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="391bc2ba-c977-408b-ba04-fda2e2919522" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="90d6c1d0-69e8-4846-99fd-5899b8e32420" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="e126960a-7682-4cc0-9c02-d326a322eb17" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="1998b0a2-0f42-44e4-95f3-0b995e87ec40" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="f7ef4888-8200-407c-845c-2614cdb14f53" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="2d4ac2fd-63b2-4c74-9b81-911b68aa3f2a" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="c496e311-7ad3-424e-b2fe-670b9dde10d6" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="aa5409a0-fe2b-4c0d-b9df-985f31463494" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="a8a73917-780e-4b9e-b901-660c5eb58411" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+        </BitArray>
       </TagContainer>
     </CommTagsDict>
     <CommTagsDict CommKey="1">
@@ -943,6 +993,56 @@
           <ArrElem Guid="a5cd56a1-9c78-41d2-932a-b0222322ce6d" Name="" DataType="2" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
           <ArrElem Guid="3c866226-9793-4b32-9563-b3c4b9e78128" Name="" DataType="2" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
         </WordArray>
+        <BitArray Guid="2bbd8f13-7fd9-4eb8-a5a1-dcb5e5643712" Name="M017_M032" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" StartIndex="17">
+          <LimitBit Guid="0dd03469-dea8-4285-823a-caaafb191695" OpenLimit="1" Signed="1" PresetVal="0">
+            <LimitSettingIntegral Guid="b7f85644-6982-4346-838a-6fe603c21ef7" Type="0" Id="0" Value="0" />
+            <LimitSettingIntegral Guid="81f433a8-a7d2-4c33-83aa-77f6e5ed34dd" Type="0" Id="1" Value="0" />
+            <LimitSettingIntegral Guid="839751ed-aece-4020-862a-7efcdfe7f4b0" Type="0" Id="2" Value="1" />
+            <LimitSettingIntegral Guid="b7a2e696-675b-46f6-8b76-f98c2c2e0b4c" Type="0" Id="3" Value="1" />
+          </LimitBit>
+          <TagAddress Guid="5b72c5a0-32e9-437a-b5a9-1f757ffb0db8" IsActive="1" Syntax="R%d.%d" Param1="1002" Param2="0" Param3="" Param4="" Param5="" UseStdName="0" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
+          <ArrElem Guid="421e8cf9-4064-47a3-b7c7-035da061b800" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="b96fdf7c-0a70-4fb8-b820-13ca5b7f8b3e" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="f4787d26-15b2-40b7-8957-c5ec779b28b3" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="3f3b42c8-326e-477c-929c-120f4383918b" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="35ff05b3-f97b-43be-86ce-98b27b4b1540" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="94cfb062-f5d3-40a9-bbdd-92d56319e7d6" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="352d9fc5-cb36-41c9-8202-92a405d47595" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="e9286ecc-1b8d-4965-9aae-8fa488797097" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="40ee51bc-6d41-4e0b-8908-d39668bec849" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="1bd33967-152e-47fb-8f8e-7d88e6aac030" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="fde902e9-62a8-4790-94de-dfb46450e7d0" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="0a358462-be60-45f2-a7fa-0132d9f54c5c" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="eb9a2c4a-4ee5-4191-876d-f27a554b15b7" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="4ba1f746-8fe2-4ba8-ab47-48adc3da55cc" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="9d372e07-f813-41ad-ab23-379d26c33443" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="5fddcebc-f04e-4eb0-bcea-1a45dc4b4ca8" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+        </BitArray>
+        <BitArray Guid="80717f1c-8e22-4c88-8ee6-31273ef5811c" Name="M049_M064" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" StartIndex="49">
+          <LimitBit Guid="8cc266f5-b17b-404a-988a-eacc30ad6025" OpenLimit="1" Signed="1" PresetVal="0">
+            <LimitSettingIntegral Guid="880e4289-e4c9-4ee2-b7fe-8784abb664a7" Type="0" Id="0" Value="0" />
+            <LimitSettingIntegral Guid="624bdc09-0b23-4399-9ac7-b0b5ad78bec9" Type="0" Id="1" Value="0" />
+            <LimitSettingIntegral Guid="86def6df-6e31-44af-a359-b93936c30eba" Type="0" Id="2" Value="1" />
+            <LimitSettingIntegral Guid="42122645-dce3-4068-8128-492d003a52e7" Type="0" Id="3" Value="1" />
+          </LimitBit>
+          <TagAddress Guid="b98f4f4b-556e-4ff7-a3d9-9b05ab7d5b7d" IsActive="1" Syntax="R%d.%d" Param1="1004" Param2="0" Param3="" Param4="" Param5="" UseStdName="0" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
+          <ArrElem Guid="e18aaf8a-b150-4b2e-a1b7-2da4cd1b2201" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="f060a64f-9bab-48bb-ad32-26105ec2e77e" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="0e442777-155a-470f-8f6a-7f9d306c08d6" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="06cedbef-be64-494f-8193-6ade7a3f41c8" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="97a11275-8fa1-4200-855d-91417fbb4a3f" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="f79ff96b-499a-4475-b6de-9bbc45632b7f" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="a52ef768-c296-467b-8bf7-0ebe1107306f" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="8fb51271-a656-41e2-81c0-441eb10a4e4d" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="0f930a94-2b53-4fab-951d-dad1b9173b91" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="0ebe699d-4ce8-4f13-b29d-fc1f4eafa02d" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="47d559fe-f751-4233-9794-e0b98557b34c" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="43586ede-5843-47f0-ad1f-d564a524ba9d" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="53c4ff9d-85d1-4790-800e-f31fccf0a1cf" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="2ea513d0-0680-45c2-afb5-590cfdd0c5a6" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="58dea4e8-5ef5-41f7-acf4-2b5eab75b39a" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="6fa1308c-2c35-4863-ab63-599885f9c270" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+        </BitArray>
       </TagContainer>
     </CommTagsDict>
     <CommTagsDict CommKey="2">
@@ -1406,6 +1506,56 @@
           </LimitDWord>
           <TagAddress Guid="df49bcc6-b519-411e-b783-59f67a0e14e2" IsActive="1" Syntax="RI%d" Param1="6009" Param2="" Param3="" Param4="" Param5="" UseStdName="0" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
         </DWordTag>
+        <BitArray Guid="5e356b4a-9a88-4049-911c-96a4fae6eb0a" Name="M017_M032" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" StartIndex="17">
+          <LimitBit Guid="a2955948-31a0-4268-b13d-d3808f632417" OpenLimit="1" Signed="1" PresetVal="0">
+            <LimitSettingIntegral Guid="25f22c57-afd0-4a6e-a273-dccfbc7531e2" Type="0" Id="0" Value="0" />
+            <LimitSettingIntegral Guid="cd7535c2-c208-4d9b-870a-40e8b7f4a9f6" Type="0" Id="1" Value="0" />
+            <LimitSettingIntegral Guid="8ba95ee8-41f5-4cee-bc92-9e441ee2a5c1" Type="0" Id="2" Value="1" />
+            <LimitSettingIntegral Guid="d68e28a7-189e-4909-b36b-e0cf586cb774" Type="0" Id="3" Value="1" />
+          </LimitBit>
+          <TagAddress Guid="3212de5a-c74a-4376-a49a-7e200a3cb904" IsActive="1" Syntax="R%d.%d" Param1="1002" Param2="0" Param3="" Param4="" Param5="" UseStdName="0" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
+          <ArrElem Guid="ecf6e453-debe-4f6c-8ad0-7e0b564e748f" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="c15732a1-bc88-496b-80a1-2c8f01f629fb" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="9100bec3-e079-4222-884d-67a3465d00c1" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="55c8ff66-b84b-42cc-a756-d31d04a01944" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="ab1a3b40-bf9b-4b2b-9444-75c84c345aa4" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="70b1e3df-eca1-4416-bcd3-1ddc335c4799" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="25f01e99-a61e-480a-95a2-4fea3f4c999e" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="c21c2db7-570c-444f-80d8-b12802f448f4" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="1d27493a-2b56-4ad6-961c-439593cf9fc4" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="16bb9e93-e56e-4786-b0a3-3685572d354e" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="f748ff05-8a81-4682-8c7c-e4f1cdc1b942" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="b17cc64f-31d2-4d45-bc89-1ca91bfb702a" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="30ce145f-64a4-48bd-903b-8cc83a41abdd" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="d8f79397-9a8c-4c06-88ba-4333071acd5a" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="2a54cd40-6d07-4ab8-acc4-c0bb7c22c0b0" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="a94a94ea-edf1-4c49-81e0-f0195f1f12f0" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+        </BitArray>
+        <BitArray Guid="fffd18ec-9c85-480c-810b-efe701330e7b" Name="M049_M064" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" StartIndex="49">
+          <LimitBit Guid="774140f0-3758-4d2d-b16c-2c180437ff99" OpenLimit="1" Signed="1" PresetVal="0">
+            <LimitSettingIntegral Guid="2576700b-265c-4c37-a186-0dd795b5183b" Type="0" Id="0" Value="0" />
+            <LimitSettingIntegral Guid="f847c007-e51f-4fd6-aaf7-a8677fdbb709" Type="0" Id="1" Value="0" />
+            <LimitSettingIntegral Guid="6589c772-06d8-4c77-85a1-b1aa1ac2975e" Type="0" Id="2" Value="1" />
+            <LimitSettingIntegral Guid="da816552-3709-45bb-b3d2-046590ad45b3" Type="0" Id="3" Value="1" />
+          </LimitBit>
+          <TagAddress Guid="cb8d354b-baf2-46b0-9d02-c7cdc617706e" IsActive="1" Syntax="R%d.%d" Param1="1004" Param2="0" Param3="" Param4="" Param5="" UseStdName="0" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
+          <ArrElem Guid="3f4eaa27-1e6a-4eef-baba-fece33b0f4b5" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="9e58e78f-76bd-44ed-9845-0625bc478ca6" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="df563f79-47c7-4b97-b33f-a3e429734224" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="06d398be-9525-4188-99a5-79715a4ccc61" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="696e2802-a917-4cdf-8665-ce9e14704aa8" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="e8057b9c-41ea-4938-a51a-73bf80b90f38" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="86575535-a13d-4aa5-bb9a-713d315cfbed" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="d37bcca9-42e5-400e-aea6-61ae21317ae4" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="ec5531cf-9eae-4dee-a9c8-358e93d38a87" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="986fedd1-a0b4-421e-97ca-688ba880c826" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="3cdff0be-93cc-48b9-8e8a-96362a26f454" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="0671f6dc-651b-42fa-b18e-cc43531fff9a" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="f716a0fc-b8c1-4843-b8db-036caf72fa3d" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="d42efb8f-5820-4413-9b96-d37519ca283c" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="546daeb6-4ee9-47f0-ad37-5ae03faeb0ff" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="438e94a8-5af0-43fd-b9b1-84d5d33888f0" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+        </BitArray>
       </TagContainer>
     </CommTagsDict>
   </CommTags>
@@ -1532,5 +1682,14 @@
       </LimitWord>
       <TagAddress Guid="2b70e5ff-a471-453c-95c8-20836dd38775" IsActive="1" Syntax="" Param1="" Param2="" Param3="" Param4="" Param5="0" UseStdName="1" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
     </WordTag>
+    <BitTag Guid="4b10aeef-e7d2-40bf-89c7-f1334dbd3149" Name="pisteInactive" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
+      <LimitBit Guid="50ef8a18-4cf3-423e-b021-ecda3ffb4010" OpenLimit="1" Signed="1" PresetVal="0">
+        <LimitSettingIntegral Guid="30ee9415-d0a1-4182-9cce-769fe9633048" Type="0" Id="0" Value="0" />
+        <LimitSettingIntegral Guid="34eb7ff7-9000-4d12-b970-987d0a9fb3bf" Type="0" Id="1" Value="0" />
+        <LimitSettingIntegral Guid="d2106c51-2a22-4540-90bd-4379b952986c" Type="0" Id="2" Value="1" />
+        <LimitSettingIntegral Guid="24638a29-8977-4111-958c-b62904ac39e8" Type="0" Id="3" Value="1" />
+      </LimitBit>
+      <TagAddress Guid="11ec8841-10de-4d6f-a1ed-90023c2fed81" IsActive="1" Syntax="" Param1="" Param2="" Param3="" Param4="" Param5="0" UseStdName="1" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
+    </BitTag>
   </TagContainer>
 </TagManager>

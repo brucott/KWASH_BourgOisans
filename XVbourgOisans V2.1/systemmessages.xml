@@ -207,4 +207,7 @@
   <Message id="68" type="1">
     <Text lng="English">Time limit for simulation mode reached. Will shutdown.</Text>
   </Message>
+  <Message id="69" type="1">
+    <Text lng="English">PDF creation already in progress</Text>
+  </Message>
 </Messages>

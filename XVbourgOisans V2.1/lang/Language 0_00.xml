@@ -110,6 +110,19 @@
 		<standard Guid="24b0b032-558a-4ca5-b357-a843c48fddde" textID="106"><![CDATA[Déconnexion]]></standard>
 		<standard Guid="15d2885f-fc1a-4bd5-845f-8530988d0307" textID="107"><![CDATA[Piste 2 - Entrées / sorties]]></standard>
 		<standard Guid="57fcd4d5-c7b5-4e01-8b26-f7a54baa2208" textID="108"><![CDATA[Piste 3 - Entrées / sorties]]></standard>
+		<standard Guid="f33936c9-cf88-4bfc-abfa-4c49daa47d81" textID="109"><![CDATA[Pistes]]></standard>
+		<standard Guid="db80e97c-ef3d-4b02-88a2-f36b54aea763" textID="110"><![CDATA[1]]></standard>
+		<standard Guid="48e5e64e-bc0a-4105-a61d-8e66ed72233f" textID="111"><![CDATA[N°]]></standard>
+		<standard Guid="eacc3628-00a1-46d3-bf31-0dd9b3ac2303" textID="112"><![CDATA[Programme en cours]]></standard>
+		<standard Guid="0c665b6f-ea34-431d-aef7-8f1d695320c9" textID="113"><![CDATA[2]]></standard>
+		<standard Guid="3ae94134-9cca-4d03-87e3-9e4950b0f0e5" textID="114"><![CDATA[3]]></standard>
+		<standard Guid="34907354-ffe1-4615-9e57-81dd383fa1c4" textID="115"><![CDATA[4]]></standard>
+		<standard Guid="f0a4c07d-ceee-4c5e-b47b-0df3f1ea58b9" textID="116"><![CDATA[5]]></standard>
+		<standard Guid="3da4ac32-7b32-4130-b205-9ff67fcdbd96" textID="117"><![CDATA[Réglages]]></standard>
+		<standard Guid="f35687be-4cae-4449-8560-c5f1be9f52dc" textID="118"><![CDATA[6]]></standard>
+		<standard Guid="e68803a1-4ac8-48db-a910-61c62aead911" textID="119"><![CDATA[Indisponible]]></standard>
+		<standard Guid="e16e5cba-0f61-4358-b4c3-0d946714c79c" textID="120"><![CDATA[Stop]]></standard>
+		<standard Guid="4119ffae-0eb8-44dc-9ec7-08defc37f2d5" textID="121"><![CDATA[Param.]]></standard>
 		<error Guid="64a2c438-7654-47a4-b52e-94adb9d67aa8" textID="0"><![CDATA[Lavage jantes]]></error>
 		<error Guid="0425fbb3-bcac-4536-9e28-2052318543bc" textID="1"><![CDATA[Prélavage]]></error>
 		<error Guid="73021637-f83f-400e-a723-c6751f50b7f0" textID="2"><![CDATA[Canon à mousse]]></error>

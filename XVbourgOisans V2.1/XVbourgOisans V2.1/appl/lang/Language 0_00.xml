@@ -118,6 +118,19 @@
 			<s ID="106"><![CDATA[Déconnexion]]></s>
 			<s ID="107"><![CDATA[Piste 2 - Entrées / sorties]]></s>
 			<s ID="108"><![CDATA[Piste 3 - Entrées / sorties]]></s>
+			<s ID="109"><![CDATA[Pistes]]></s>
+			<s ID="110"><![CDATA[1]]></s>
+			<s ID="111"><![CDATA[N°]]></s>
+			<s ID="112"><![CDATA[Programme en cours]]></s>
+			<s ID="113"><![CDATA[2]]></s>
+			<s ID="114"><![CDATA[3]]></s>
+			<s ID="115"><![CDATA[4]]></s>
+			<s ID="116"><![CDATA[5]]></s>
+			<s ID="117"><![CDATA[Réglages]]></s>
+			<s ID="118"><![CDATA[6]]></s>
+			<s ID="119"><![CDATA[Indisponible]]></s>
+			<s ID="120"><![CDATA[Stop]]></s>
+			<s ID="121"><![CDATA[Param.]]></s>
 			<s ID="-10"><![CDATA[Delete User Account]]></s>
 			<s ID="-9"><![CDATA[Create User Account]]></s>
 			<s ID="-8"><![CDATA[Change group of user]]></s>
@@ -221,6 +234,7 @@
 			<sys ID="66"><![CDATA[GraphBlock is running. Please stop to perform file loading.]]></sys>
 			<sys ID="67"><![CDATA[Update required: '%1']]></sys>
 			<sys ID="68"><![CDATA[Time limit for simulation mode reached. Will shutdown.]]></sys>
+			<sys ID="69"><![CDATA[PDF creation already in progress]]></sys>
 		</system>
 	</texts>
 </languageData>
