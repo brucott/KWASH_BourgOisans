@@ -1,0 +1,4 @@
+<StandardScreen Guid="18d0f4b8-ec9d-4e71-86a1-2f1fe2c17e41" Res="[800 480]" ScreenColor="[255 192 192 192]" ActiveSet="8cd2981e-ff8b-41f9-8934-b63584b245ea" Name="TRASH" No="0" Version="[11.0.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="561100d7-339a-4510-95bf-1b945f2ad13d">
+  <Checksum Value="974588102" />
+  <ControlSet Guid="8cd2981e-ff8b-41f9-8934-b63584b245ea" Name="ControlSet" />
+</StandardScreen>

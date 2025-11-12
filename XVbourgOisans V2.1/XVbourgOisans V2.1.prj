@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<ProjectData Guid="096009f8-d071-4baa-88ad-3e9a23e0ceb5" Version="[11.1.0]" GalileoVersion="Galileo (11.1.0.22102)  e8fec5b1" ProjectType="0">
-  <Checksum Value="3088981009" />
+<ProjectData Guid="096009f8-d071-4baa-88ad-3e9a23e0ceb5" Version="[11.1.0]" GalileoVersion="Galileo (11.1.1.22159)  56331d75" ProjectType="0">
+  <Checksum Value="2140943339" />
   <VisualizationManager Guid="46e00603-913f-4ca2-b4b1-8fd884b335af" ActiveVisu="3065087d-7ca2-430f-bebe-6164f3619165" LocalVisu="4dcced77-ca9c-4ec9-a602-5dbaf36ab771">
     <VisualizationGroup Guid="4dcced77-ca9c-4ec9-a602-5dbaf36ab771" Name="Local" Width="0" Height="0" DefaultBackgroundScreen="561100d7-339a-4510-95bf-1b945f2ad13d">
       <Visualization Guid="3065087d-7ca2-430f-bebe-6164f3619165" Name="Local" URL="" Enabled="1" Pwd="" StartScreen="80ac5663-b1af-41f8-9a1d-831cd9be4264" AutoDisconnectTimeInSeconds="0">
@@ -8,7 +8,7 @@
           <InnerTagList />
         </TagList>
       </Visualization>
-      <Visualization Guid="3d7e5910-b707-43f4-bcac-5ca68797b07d" Name="Web" URL="" Enabled="1" Pwd="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" StartScreen="7fa6a5da-06d9-4454-8588-a065ee59cbd6" AutoDisconnectTimeInSeconds="0">
+      <Visualization Guid="3d7e5910-b707-43f4-bcac-5ca68797b07d" Name="Web" URL="" Enabled="1" Pwd="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" StartScreen="80ac5663-b1af-41f8-9a1d-831cd9be4264" AutoDisconnectTimeInSeconds="0">
         <TagList Guid="502bc6ec-2146-4667-ae66-9a32d5cb3f87" PName="Tags">
           <InnerTagList />
         </TagList>
@@ -16,7 +16,6 @@
       <ScreenStructure Guid="fccca690-32b7-4408-9800-816703ca8a9a">
         <ScreenFolderNew Guid="b219e692-d66e-4340-a179-cb900a07ca2c" Name="" Type="-1">
           <ScreenFolderRootNew Guid="a587004e-4ec7-4ce2-8720-e2e43c0f8042" Name="" Type="1">
-            <ScreenRef Guid="7fa6a5da-06d9-4454-8588-a065ee59cbd6" Name="Start" />
             <ScreenRef Guid="266f9238-73ab-4281-9f8d-011f1e6fe55a" Name="parameters" />
             <ScreenRef Guid="346a85be-e345-4ddc-b927-55223035aadb" Name="alarms" />
             <ScreenRef Guid="f73941e5-1bd1-4da9-ae1e-37148dd22ad2" Name="Counters" />
@@ -28,7 +27,8 @@
             <ScreenRef Guid="19f17336-c2a0-4886-9205-5649838a9ef6" Name="Piste2_IOs" />
             <ScreenRef Guid="dbfb924a-746c-414b-905a-99a2c4485510" Name="Piste3" />
             <ScreenRef Guid="99a24360-ccb3-4a85-adfa-81a7231cbc3d" Name="Piste3_IOs" />
-            <ScreenRef Guid="80ac5663-b1af-41f8-9a1d-831cd9be4264" Name="test" />
+            <ScreenRef Guid="80ac5663-b1af-41f8-9a1d-831cd9be4264" Name="Start" />
+            <ScreenRef Guid="59fd8923-256c-4229-ba8f-1a162d8630f3" Name="Piste1_IOs_tests" />
           </ScreenFolderRootNew>
           <ScreenFolderRootNew Guid="3895ba6d-5254-4c4a-b5dc-1da0dbc93c2a" Name="" Type="3" />
           <ScreenFolderRootNew Guid="467d9255-4d48-4818-85d7-54f6a83856fc" Name="" Type="4" />
@@ -188,6 +188,7 @@
     <StandardText Guid="e68803a1-4ac8-48db-a910-61c62aead911" TextId="119" />
     <StandardText Guid="e16e5cba-0f61-4358-b4c3-0d946714c79c" TextId="120" />
     <StandardText Guid="4119ffae-0eb8-44dc-9ec7-08defc37f2d5" TextId="121" />
+    <StandardText Guid="903ef395-1125-4abb-ae2c-fbc495a44e1e" TextId="122" />
     <ErrorText Guid="64a2c438-7654-47a4-b52e-94adb9d67aa8" TextId="0" />
     <ErrorText Guid="0425fbb3-bcac-4536-9e28-2052318543bc" TextId="1" />
     <ErrorText Guid="73021637-f83f-400e-a723-c6751f50b7f0" TextId="2" />
@@ -250,7 +251,7 @@
       <Picture Guid="cb773626-6556-45d0-abd1-08467b82f8de" FileName="_418883099_896020212311035_6860571107236007511_n.png" InsetH="0" InsetV="0" />
     </PictureFolder>
   </PictureManager>
-  <ProjectSettings Guid="69ef9d46-3a6a-4392-8351-26475742eb7e" ErrorConfirmationMode="1" ErrorHistorySize="512" CloseHelpWindowOnInactiveError="0" MsgTypeInErrHistoryFile="0" ErrorWindowSortingCriteria="0" ActivateUserLogger="0" UserLoggerDirectory="" CreateNewLogFileDaily="0" MaxEntriesPerLogFile="1000" MaxNumberOfLogFiles="100" UserLoggerMinFreeSpace="10" LogErrorTags="0" TouchDelayTime="5" TouchDoubleClickTime="5" DisplayTouchErrorIndicator="0" SaveTouchErrorIndicator="0" DimOnScreensaver="1" UseModernBrowser="0" GridSize="10" GridColor="[255 148 148 148]" ShowGrid="1" GridStyle="0" SnapToObjects="0" SnapToGrid="1" SnapGridSize="10" SaveControlsVisibilityState="0" EnableInPlaceEditing="1" SelectionStyle="1" GraphListOrderWay="0" GraphListOrderBy="0" OthersListOrderWay="0" OthersListOrderBy="0" UserMgmtListOrderWay="0" TransparentTouchColor="[255 0 255 0]" TransparencyLevelTouchColor="25" SysKeybResolution="[0 0]" SysKeyb="1" SysKeybFile="DarkGray" SysKeybButtonStyle="f4109c2f-135c-4128-8680-51a52465844b" SysKeybDisplayStyle="3982ad1a-9b1f-4a77-864f-80a93294d743" SysKeybWndBackColor="[255 169 169 169]" SysKeybHeaderBackColor="[255 135 206 250]" SysKeybFrameColor="[255 0 0 0]" ControlSize="8" StatusSize="8" DateTimeSize="4" ScreenChangeAnimationAllowed="1" PollingTagsInLoopScriptsAllowed="0" ScreenChangeDuration="650" DynamicPositionMode="1" DynamicSizeMode="1" WarnMissingTranslation="1" WarnObjTooSmall="1" WarnLoopScriptStatementCount="1" WarnEventScriptStatementCount="1" WarnErrorTagPlaceholder="0" WarnErrorTagParamPollingRate="1" WarnUsedSlaveTags="1" ErrorMissingImages="1" ErrorMissingTexts="1" ErrorLimitViolations="1" WarnScriptFuncOftenRecurring="1" WarnDisabledEvents="1" WarnStreamButtonInLocalWebVisu="1" WarnLoopInEvents="1" CommunicationActive="1" CommUngracefulShutdown="0" CommunicateInSimulator="0" CommInSimUngracefulShutdown="0" ModifyRecipeInSimulator="0" GenerateIpkFile="1" GeneralDataDirectory="data/" RecentUsedColors="[255 255 255 255], [255 148 148 148], [255 233 233 233], [255 106 106 106], [255 169 169 169], [255 182 182 255], [0 0 0 0], [255 255 0 0], [255 255 165 0], [255 255 255 0]" RecentUsedIconLibColors="[255 148 148 148], [255 255 255 255], [255 255 0 0], [255 0 255 0], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255]" TextRenderingAntiAliased="1" UseOpenGLonWin32="1" TextExpImpPath="" TextExpImpType="0" CustomDateTimeFormats="">
+  <ProjectSettings Guid="69ef9d46-3a6a-4392-8351-26475742eb7e" ErrorConfirmationMode="1" ErrorHistorySize="512" CloseHelpWindowOnInactiveError="0" MsgTypeInErrHistoryFile="0" ErrorWindowSortingCriteria="0" ActivateUserLogger="0" UserLoggerDirectory="" CreateNewLogFileDaily="0" MaxEntriesPerLogFile="1000" MaxNumberOfLogFiles="100" UserLoggerMinFreeSpace="10" LogErrorTags="0" TouchDelayTime="5" TouchDoubleClickTime="5" DisplayTouchErrorIndicator="0" SaveTouchErrorIndicator="0" DimOnScreensaver="1" UseModernBrowser="0" GridSize="10" GridColor="[255 148 148 148]" ShowGrid="1" GridStyle="0" SnapToObjects="0" SnapToGrid="1" SnapGridSize="10" SaveControlsVisibilityState="0" EnableInPlaceEditing="1" SelectionStyle="1" GraphListOrderWay="0" GraphListOrderBy="0" OthersListOrderWay="0" OthersListOrderBy="0" UserMgmtListOrderWay="0" TransparentTouchColor="[255 0 255 0]" TransparencyLevelTouchColor="25" SysKeybResolution="[0 0]" SysKeyb="1" SysKeybFile="DarkGray" SysKeybButtonStyle="f4109c2f-135c-4128-8680-51a52465844b" SysKeybDisplayStyle="3982ad1a-9b1f-4a77-864f-80a93294d743" SysKeybWndBackColor="[255 169 169 169]" SysKeybHeaderBackColor="[255 135 206 250]" SysKeybFrameColor="[255 0 0 0]" ControlSize="8" StatusSize="8" DateTimeSize="4" ScreenChangeAnimationAllowed="1" PollingTagsInLoopScriptsAllowed="0" ScreenChangeDuration="650" DynamicPositionMode="1" DynamicSizeMode="1" WarnMissingTranslation="1" WarnObjTooSmall="1" WarnLoopScriptStatementCount="1" WarnEventScriptStatementCount="1" WarnErrorTagPlaceholder="0" WarnErrorTagParamPollingRate="1" WarnUsedSlaveTags="1" ErrorMissingImages="1" ErrorMissingTexts="1" ErrorLimitViolations="1" WarnScriptFuncOftenRecurring="1" WarnDisabledEvents="1" WarnStreamButtonInLocalWebVisu="1" WarnLoopInEvents="1" CommunicationActive="1" CommUngracefulShutdown="0" CommunicateInSimulator="0" CommInSimUngracefulShutdown="0" ModifyRecipeInSimulator="0" GenerateIpkFile="1" GeneralDataDirectory="data/" RecentUsedColors="[255 212 212 212], [255 233 233 233], [255 0 0 255], [255 0 255 0], [255 255 255 255], [255 255 255 0], [255 255 0 0], [255 148 148 148], [255 106 106 106], [255 169 169 169]" RecentUsedIconLibColors="[255 148 148 148], [255 255 255 255], [255 255 0 0], [255 0 255 0], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255]" TextRenderingAntiAliased="1" UseOpenGLonWin32="1" TextExpImpPath="" TextExpImpType="0" CustomDateTimeFormats="">
     <AppearanceNoFrame Guid="15d1d0c3-fc36-43d0-8e4c-c6494ea435c4" SelFrameWidth="1" />
     <Appearance2DFrame Guid="cbf060b7-70df-4af2-a7cb-48584b6727be" FrameOn="[255 255 255 255]" FrameOff="[255 0 0 0]" FrameWidth="1" SelFrameWidth="2" />
     <Appearance3DFrame Guid="dfc5389d-a124-423d-b17b-8aab2d4c0969" FrameOn="[255 255 255 255]" FrameOff="[255 0 0 0]" ShadowTLOn="[255 0 0 0]" ShadowTLOff="[255 255 255 255]" ShadowBROn="[255 211 211 211]" ShadowBROff="[255 128 128 128]" FrameWidth="0" ShadowWidth="2" DispShadowWidth="2" />
@@ -465,11 +466,13 @@
   <GraphBlockManager Guid="2bd56858-5d7c-4aa5-a579-648b13b893a0">
     <GraphFolder Guid="8d98157b-7089-4aea-9bb7-8620bfd90f05" />
   </GraphBlockManager>
-  <UserManager Guid="f32ad5fe-c9ac-41dd-aae6-5563f850f301" AutomaticLanguageChange="0" ActualUserNameTagId="f0280397-5978-402b-9b56-dd6a5fcaa6de" LogoutTagValue="-1" MinimumPasswordLength="4" LastCheckedPasswordsCount="0" SetBitTagToOne="1">
+  <UserManager Guid="f32ad5fe-c9ac-41dd-aae6-5563f850f301" AutomaticLanguageChange="0" ActualUserNameTagId="8dd983b4-0b03-40a0-a37d-09459d237aef" ActualGroupIdTagId="3399ede1-93a9-4c8f-ae8c-8ef0bc52b6f2" LogoutTagValue="-1" MinimumPasswordLength="4" LastCheckedPasswordsCount="0" SetBitTagToOne="1">
     <UserFolder Guid="0deb4c85-e455-411d-b6b9-195247624677" ID="0" RightToCreate="0" RightToDelete="0" RightToLock="0" RightToChangeGroupAffiliation="0" RightToChangePassword="0" PasswordAging_PropType="0" PasswordAging_Value="0" StartPassword_PropType="0" StartPassword_Value="0" AutoLogout_PropType="0" AutoLogout_Value="0" BadLogins_PropType="0" BadLogins_Value="0">
       <UserFolder Guid="5fdaeab4-6ca9-40af-8e4f-e3033dca0ed5" FolderName="Proprietaire" ID="0" RightToCreate="0" RightToDelete="0" RightToLock="0" RightToChangeGroupAffiliation="0" RightToChangePassword="0" PasswordAging_PropType="0" PasswordAging_Value="0" StartPassword_PropType="0" StartPassword_Value="0" AutoLogout_PropType="0" AutoLogout_Value="0" BadLogins_PropType="0" BadLogins_Value="0">
         <User Guid="cff56b1f-327c-481c-89aa-8fa918a225fe" Name="Proprietaire" Locked="0" Password="0 171 143 145 124 233 26 199 164 116 114 41 165 4 15 103 0 0 0 0" PVersion="1" PasswordIsTag="0" />
-        <DestinationFolders />
+        <DestinationFolders>
+          <FolderListGroupRef Guid="5fdaeab4-6ca9-40af-8e4f-e3033dca0ed5" />
+        </DestinationFolders>
         <TagList Guid="b158ed0f-1df4-438a-ac55-0cad321270f5" PName="GroupRightsTags">
           <InnerTagList>
             <TagRef Guid="5b01965c-2c7f-4853-bdb9-be0b9da285d7" />
@@ -478,7 +481,10 @@
       </UserFolder>
       <UserFolder Guid="ab69a29f-6f59-48c2-bee4-95e518d1c3ee" FolderName="Service" ID="0" RightToCreate="0" RightToDelete="0" RightToLock="0" RightToChangeGroupAffiliation="0" RightToChangePassword="0" PasswordAging_PropType="0" PasswordAging_Value="0" StartPassword_PropType="0" StartPassword_Value="0" AutoLogout_PropType="0" AutoLogout_Value="0" BadLogins_PropType="0" BadLogins_Value="0">
         <User Guid="a5da6a74-288a-46c0-a422-6c4a6922df7d" Name="Service" Locked="0" Password="159 135 168 174 140 5 136 199 132 204 56 177 246 176 98 15 0 0 0 0" PVersion="1" PasswordIsTag="0" />
-        <DestinationFolders />
+        <DestinationFolders>
+          <FolderListGroupRef Guid="5fdaeab4-6ca9-40af-8e4f-e3033dca0ed5" />
+          <FolderListGroupRef Guid="ab69a29f-6f59-48c2-bee4-95e518d1c3ee" />
+        </DestinationFolders>
         <TagList Guid="638ccbaf-2659-471f-9bd7-cdf3b1741303" PName="GroupRightsTags">
           <InnerTagList>
             <TagRef Guid="4dba923c-443c-488d-9356-9a66032cfcc7" />
