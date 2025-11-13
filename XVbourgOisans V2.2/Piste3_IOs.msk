@@ -1,5 +1,5 @@
 <StandardScreen Guid="99a24360-ccb3-4a85-adfa-81a7231cbc3d" Res="[800 480]" ScreenColor="[255 192 192 192]" ActiveSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="Piste3_IOs" No="10" Version="[11.0.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="561100d7-339a-4510-95bf-1b945f2ad13d">
-  <Checksum Value="4164022044" />
+  <Checksum Value="1109839703" />
   <Text Guid="a50218df-53f8-4b1c-b491-5ef437e70125" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" X_PropType="0" X_Value="210" Y_PropType="0" Y_Value="8" Width_PropType="0" Width_Value="380" Height_PropType="0" Height_Value="52">
     <State Guid="2db8c14e-7d8d-4735-96d2-73f84adf0d2b" Name="Text" Version="[1.1.0]">
       <ColorDecorator Guid="d15d9b1e-d183-4f3f-b916-c7418e7f7c2b" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
@@ -86,126 +86,6 @@
       <NoneDecorator Guid="12b4c6e5-4674-490b-9b53-909d6f9282b3" ID="1" />
     </State>
   </FlagDisplay>
-  <FlagDisplay Guid="7cb20eb1-fda5-4a7c-8090-f580acbf5a7f" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="266" Y_PropType="0" Y_Value="224" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="5df8301e-f951-4ccd-b7d7-66e7798c1511">
-    <State Guid="08adea88-7f6f-4253-9e79-4bcded2f5d3b" Name="FlagDisplayState$0" Version="[1.1.0]">
-      <ColorDecorator Guid="673fe1d2-c127-401a-8385-0c608d14789d" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="00308710-6430-4fa2-a407-ba6ee4f84dfb" ID="1" />
-    </State>
-    <State Guid="29370128-98b4-43b5-a9cf-d8540427dc60" Name="FlagDisplayState$1" Version="[1.1.0]">
-      <ColorDecorator Guid="3f2fdcb7-9ad8-4aa8-ad66-d7698acdfd54" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="c764dacc-115f-4b6c-8588-e242a31a33d9" ID="1" />
-    </State>
-  </FlagDisplay>
-  <FlagDisplay Guid="0e508cca-398d-4584-8da0-1e291017cd17" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="289" Y_PropType="0" Y_Value="224" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="5df8301e-f951-4ccd-b7d7-66e7798c1511">
-    <State Guid="60fc6956-44b9-47e3-a184-4dfbb8909ec1" Name="FlagDisplayState$0" Version="[1.1.0]">
-      <ColorDecorator Guid="284d6c7a-0274-4658-939e-2895d56563f1" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="9ff69121-af00-459b-949b-654b73f15339" ID="1" />
-    </State>
-    <State Guid="6c3ae929-c7ec-4bc2-a89d-c65f1a1c4f1a" Name="FlagDisplayState$1" Version="[1.1.0]">
-      <ColorDecorator Guid="644523d5-576b-4251-9b24-e137e41afa53" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="70a39e13-6a5a-442f-b67a-a46f34d4ef21" ID="1" />
-    </State>
-  </FlagDisplay>
-  <FlagDisplay Guid="23fd093b-2747-4dd7-bd6e-7a7db1ba6997" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="312" Y_PropType="0" Y_Value="224" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="5df8301e-f951-4ccd-b7d7-66e7798c1511">
-    <State Guid="ba58da02-6ef0-4e8f-88ee-5002a42fe71b" Name="FlagDisplayState$0" Version="[1.1.0]">
-      <ColorDecorator Guid="c959d234-9d3a-47e7-aa08-733dcdc2b37f" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="ca714737-405f-40aa-9960-e7fbaaf29f81" ID="1" />
-    </State>
-    <State Guid="20d650c9-325a-4bf7-9e58-07ec301b2546" Name="FlagDisplayState$1" Version="[1.1.0]">
-      <ColorDecorator Guid="73230a0f-5bf2-4648-806a-6ea1df827782" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="1dd7ff6b-88c5-4c6d-90ee-e470e31225c8" ID="1" />
-    </State>
-  </FlagDisplay>
-  <FlagDisplay Guid="990b51ef-3cee-4a3e-8f8e-3f8ffc5acccb" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="242" Y_PropType="0" Y_Value="224" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="5df8301e-f951-4ccd-b7d7-66e7798c1511">
-    <State Guid="5c55f629-56ba-4f92-a545-fc6680f18fb3" Name="FlagDisplayState$0" Version="[1.1.0]">
-      <ColorDecorator Guid="b6cf77e5-e4b9-421f-9f7a-3bbeeb67f662" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="80d67fbc-9e26-4a04-8da1-64954978d39b" ID="1" />
-    </State>
-    <State Guid="cc0b8d50-9bab-4765-bc6f-180abe4a8206" Name="FlagDisplayState$1" Version="[1.1.0]">
-      <ColorDecorator Guid="d9d3778a-39c0-4433-b69d-a9ed75eb76df" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="e139e1fe-08a2-4f34-ba77-21a9dbd567d5" ID="1" />
-    </State>
-  </FlagDisplay>
-  <FlagDisplay Guid="3a3f92a3-2f80-4017-b8a7-ed6ed87814c8" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="422" Y_PropType="0" Y_Value="224" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="5df8301e-f951-4ccd-b7d7-66e7798c1511">
-    <State Guid="563d465e-e865-4b9a-8d1c-65023452f1a2" Name="FlagDisplayState$0" Version="[1.1.0]">
-      <ColorDecorator Guid="896d16d2-b0fe-437d-9c18-48966e549b73" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="3b474094-15af-40d9-a18b-f2d1f6eaa6f5" ID="1" />
-    </State>
-    <State Guid="f412cb92-f0b8-44fd-b52b-5b3f3a3a79e2" Name="FlagDisplayState$1" Version="[1.1.0]">
-      <ColorDecorator Guid="6caf0fc8-0e4c-4895-a7eb-afe66913420b" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="bb1265b6-e3fa-4c52-b99c-8cdde22f22fa" ID="1" />
-    </State>
-  </FlagDisplay>
-  <FlagDisplay Guid="e9bc010b-d2d7-4469-b87b-2da85db4dd20" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="445" Y_PropType="0" Y_Value="224" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="5df8301e-f951-4ccd-b7d7-66e7798c1511">
-    <State Guid="f77abe0d-0117-4f2a-b4dd-19eca7365a81" Name="FlagDisplayState$0" Version="[1.1.0]">
-      <ColorDecorator Guid="5c570790-bbda-4a6a-b8ba-3cc8baff9576" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="088932da-1459-4b9a-985f-f692c6a8d19e" ID="1" />
-    </State>
-    <State Guid="6e1e514a-a416-47e0-a5b6-9f2bdeade17d" Name="FlagDisplayState$1" Version="[1.1.0]">
-      <ColorDecorator Guid="54ea26f2-ef46-4761-b50c-a180693308ab" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="6a8480bd-8a4c-4a5f-ae71-bf676ec53ada" ID="1" />
-    </State>
-  </FlagDisplay>
-  <FlagDisplay Guid="4d65a780-a675-437e-a643-2ff901f55c1b" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="469" Y_PropType="0" Y_Value="224" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="5df8301e-f951-4ccd-b7d7-66e7798c1511">
-    <State Guid="0564a5c8-3c80-4fea-b877-7f2d40438d1c" Name="FlagDisplayState$0" Version="[1.1.0]">
-      <ColorDecorator Guid="bdc8f9a5-bff4-405a-9c16-9a3c875d5f52" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="6cdb0a24-f88b-4180-abfb-52dbb7ddb563" ID="1" />
-    </State>
-    <State Guid="1785bf05-6472-463b-930d-44dd2348b797" Name="FlagDisplayState$1" Version="[1.1.0]">
-      <ColorDecorator Guid="1bcd2f39-f3e5-4857-9a33-2567ac6d5af4" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="0c9fab66-607b-4017-8528-cb28792fc8d7" ID="1" />
-    </State>
-  </FlagDisplay>
-  <FlagDisplay Guid="3274f960-124b-4481-8bc1-c4b03dbeb7d7" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="398" Y_PropType="0" Y_Value="224" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="5df8301e-f951-4ccd-b7d7-66e7798c1511">
-    <State Guid="dba7a557-96a0-4197-a207-3f79bc85ce65" Name="FlagDisplayState$0" Version="[1.1.0]">
-      <ColorDecorator Guid="f0f300f0-69ec-422b-8b53-c6924351bbe0" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="88706f08-2559-4355-aec5-d27c0e21130e" ID="1" />
-    </State>
-    <State Guid="212f843b-fb59-4c49-a2d8-6dc331b7f780" Name="FlagDisplayState$1" Version="[1.1.0]">
-      <ColorDecorator Guid="f6de81f1-6f74-485b-a25f-30e418cf6009" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="d4fd6107-402a-4fa5-9b53-e9cf08d0aec6" ID="1" />
-    </State>
-  </FlagDisplay>
-  <FlagDisplay Guid="3a587bce-d628-4d7e-bac6-fd819ecdf30a" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="492" Y_PropType="0" Y_Value="224" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="5df8301e-f951-4ccd-b7d7-66e7798c1511">
-    <State Guid="f78b425e-2e3e-417e-84ab-ce1204061ecc" Name="FlagDisplayState$0" Version="[1.1.0]">
-      <ColorDecorator Guid="f358ffd9-0485-4f0e-8fbd-819f29624c8d" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="002ebaeb-7902-42f9-9374-6948a11439c9" ID="1" />
-    </State>
-    <State Guid="4a1d2f68-9a9f-478e-a7ea-cfba999c5d20" Name="FlagDisplayState$1" Version="[1.1.0]">
-      <ColorDecorator Guid="984b5123-560a-49bd-95c5-9911dcde597e" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="2c4cc7b8-b5f2-4890-8373-d1cd8134c864" ID="1" />
-    </State>
-  </FlagDisplay>
-  <FlagDisplay Guid="a435601c-c0b5-44d6-93de-08fd81912d16" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="516" Y_PropType="0" Y_Value="224" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="5df8301e-f951-4ccd-b7d7-66e7798c1511">
-    <State Guid="4a6c4ec8-125d-458e-8b0f-1c4c29869546" Name="FlagDisplayState$0" Version="[1.1.0]">
-      <ColorDecorator Guid="206d49da-6f71-4a19-855a-d0344e0cd8cb" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="73060904-32fc-43e1-a1ff-e00ea8dd26bc" ID="1" />
-    </State>
-    <State Guid="3497d62c-f13b-4471-a6d2-11ef23f16826" Name="FlagDisplayState$1" Version="[1.1.0]">
-      <ColorDecorator Guid="0602e052-6350-4c2d-9cae-233a3d709410" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="3abf896a-819b-45aa-b9ce-37b2057875c9" ID="1" />
-    </State>
-  </FlagDisplay>
-  <FlagDisplay Guid="347b64e3-6176-4754-a9d9-9136c29f8a37" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="539" Y_PropType="0" Y_Value="224" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="5df8301e-f951-4ccd-b7d7-66e7798c1511">
-    <State Guid="bcd98d4c-c300-47c2-9ba5-0c44074879e7" Name="FlagDisplayState$0" Version="[1.1.0]">
-      <ColorDecorator Guid="5d8f6837-50fc-4d63-8ecb-31642fc0d134" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="97e182b7-725a-48a6-a2bf-bc0720093629" ID="1" />
-    </State>
-    <State Guid="c3c84377-0791-44fa-9f7a-d3b27abefa2d" Name="FlagDisplayState$1" Version="[1.1.0]">
-      <ColorDecorator Guid="2e474598-a861-405c-bf2d-576fa8bb9622" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="3fc25723-2b75-4b6b-bf23-771a028dc274" ID="1" />
-    </State>
-  </FlagDisplay>
-  <FlagDisplay Guid="05fd7ab3-975c-4ce8-95e4-882716b1fd6d" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="719" Y_PropType="0" Y_Value="224" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="5df8301e-f951-4ccd-b7d7-66e7798c1511">
-    <State Guid="04f3ac42-3684-4734-84b2-ab2c50a66d19" Name="FlagDisplayState$0" Version="[1.1.0]">
-      <ColorDecorator Guid="d2289b45-93dc-492e-8c94-45cc9174ec0c" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="5d624e54-bb33-49cb-941a-9756c234fbaf" ID="1" />
-    </State>
-    <State Guid="4e5e3f5c-2a49-4dbf-8638-40c1f5ae6bfe" Name="FlagDisplayState$1" Version="[1.1.0]">
-      <ColorDecorator Guid="546673d7-bfbe-4883-a7fb-2eced7ff324d" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="96a77a5d-9440-4150-b1d8-8a6fa29cae7b" ID="1" />
-    </State>
-  </FlagDisplay>
   <FlagDisplay Guid="571f5484-74a2-4daf-a7ed-9a2d1f8f3c39" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="62" Y_PropType="0" Y_Value="256" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="047a575b-2b39-4a1f-8a62-f7019dc011a1">
     <State Guid="b24a7bfc-cf32-446f-8b5b-4daba8c271ba" Name="FlagDisplayState$0" Version="[1.1.0]">
       <ColorDecorator Guid="4657364f-6059-4955-ae3f-3c9db60024f6" ID="0" Color="[255 255 0 0]" Blink="0" BlinkColor="[255 211 211 211]" />
@@ -244,36 +124,6 @@
     <State Guid="96cc7ebe-0524-4551-a130-87d0775c73b4" Name="FlagDisplayState$1" Version="[1.1.0]">
       <ColorDecorator Guid="199ecf16-bec9-4911-b612-482b3ce937f3" ID="0" Color="[255 0 255 0]" Blink="0" BlinkColor="[255 211 211 211]" />
       <NoneDecorator Guid="503d2fcf-ff78-495a-b0fc-ca7e095a49bc" ID="1" />
-    </State>
-  </FlagDisplay>
-  <FlagDisplay Guid="9dcc63cc-848d-4ae8-ad5c-307d9c0ac57f" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="266" Y_PropType="0" Y_Value="256" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="5df8301e-f951-4ccd-b7d7-66e7798c1511">
-    <State Guid="0ae678af-226f-47e8-b788-472f9e0f1b15" Name="FlagDisplayState$0" Version="[1.1.0]">
-      <ColorDecorator Guid="e9821afc-26b6-4e0b-b809-ce30d93631f6" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="92e09eda-924d-4f82-9446-3b5f8805b9ae" ID="1" />
-    </State>
-    <State Guid="0ec51c14-1f8f-449d-9e36-cfd728c0d9c6" Name="FlagDisplayState$1" Version="[1.1.0]">
-      <ColorDecorator Guid="514bbdcd-f1cc-42cf-97bf-6c0ae9275383" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="fd507bb5-9c14-4b30-80ad-39fb8edd3f76" ID="1" />
-    </State>
-  </FlagDisplay>
-  <FlagDisplay Guid="9dbb4b9c-6127-4ae0-8a96-cb49f4379202" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="289" Y_PropType="0" Y_Value="256" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="5df8301e-f951-4ccd-b7d7-66e7798c1511">
-    <State Guid="c492a754-31e6-45ac-bee6-0aa5ed93918b" Name="FlagDisplayState$0" Version="[1.1.0]">
-      <ColorDecorator Guid="421e0831-d8c1-4990-9e07-963413f0eff1" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="ffd9b620-c934-461c-bc08-0bb5b294a110" ID="1" />
-    </State>
-    <State Guid="37482223-2be4-4f48-8004-0817e126eebf" Name="FlagDisplayState$1" Version="[1.1.0]">
-      <ColorDecorator Guid="e81d1ad7-9adf-4378-b153-c71fe48e45d9" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="823c35b5-6ca9-44eb-8650-670e7e70ee53" ID="1" />
-    </State>
-  </FlagDisplay>
-  <FlagDisplay Guid="dfc3eb7a-c5aa-49d1-89fa-fe51f189e309" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="312" Y_PropType="0" Y_Value="256" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="5df8301e-f951-4ccd-b7d7-66e7798c1511">
-    <State Guid="57fd1415-d45d-4323-8262-b1e4151a68fc" Name="FlagDisplayState$0" Version="[1.1.0]">
-      <ColorDecorator Guid="4cde7787-6c6b-463d-a189-a273755eee31" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="1cb1e693-de73-448a-8e15-0ba7b26009f1" ID="1" />
-    </State>
-    <State Guid="3745260e-4e5e-464d-9c72-20439ddf78e6" Name="FlagDisplayState$1" Version="[1.1.0]">
-      <ColorDecorator Guid="e8f37a18-7d38-4b77-818d-e52b30c9e53a" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="96edd23a-1633-4896-acaf-653afe0c4cf5" ID="1" />
     </State>
   </FlagDisplay>
   <FlagDisplay Guid="0106dbe8-fceb-4493-a578-c450f093c4a4" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="242" Y_PropType="0" Y_Value="256" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="efafe2cf-0f24-4e19-8d5e-3f4614a47efa">
@@ -445,26 +295,6 @@
       <TextDecorator Guid="484e1814-f6f0-4e9c-a88a-7937758f1089" ID="1" Font="[0,10,0]" Color="[255 233 233 233]" Blink="0" AlignH="2" AlignV="1" Rotation="3" WordBreak="1" MainData_PropType="0" MainData_Value="f55515df-7327-4c02-8f79-124c429080ea" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
     </State>
   </Text>
-  <FlagDisplay Guid="2f877c77-8a05-41ff-831c-3556e4bfed76" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="742" Y_PropType="0" Y_Value="224" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="5df8301e-f951-4ccd-b7d7-66e7798c1511">
-    <State Guid="2df3be55-bb5b-4bb9-b4de-24d3a187d74a" Name="FlagDisplayState$0" Version="[1.1.0]">
-      <ColorDecorator Guid="092028c5-08d9-4462-a29a-e548dace7d3e" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="f87b27c5-ec1f-46a3-a341-3eb45abfb342" ID="1" />
-    </State>
-    <State Guid="4ebf2cc9-10bd-4542-b4d0-720565e7c2c2" Name="FlagDisplayState$1" Version="[1.1.0]">
-      <ColorDecorator Guid="e0533d54-5010-469a-a296-00cfa009cef3" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="7ef52ee8-6175-4d2b-81a7-54017918cc6b" ID="1" />
-    </State>
-  </FlagDisplay>
-  <FlagDisplay Guid="3789aed6-33fe-4890-91d7-1aab87b43582" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="766" Y_PropType="0" Y_Value="224" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="5df8301e-f951-4ccd-b7d7-66e7798c1511">
-    <State Guid="3b4ddbbc-fd02-493c-a738-d1b9bcae59ba" Name="FlagDisplayState$0" Version="[1.1.0]">
-      <ColorDecorator Guid="2ae1113e-8cbe-4332-8c11-a320acc08068" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="4cd48f4a-1271-4312-be76-120462c5cf64" ID="1" />
-    </State>
-    <State Guid="b7d24852-5ba5-4c33-964a-0697ef71f5d2" Name="FlagDisplayState$1" Version="[1.1.0]">
-      <ColorDecorator Guid="17086173-179a-466b-a954-0ea338fa6ed5" ID="0" Color="[255 211 211 211]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="0edcfe05-00bf-42f4-8c13-cdc24c03ad3f" ID="1" />
-    </State>
-  </FlagDisplay>
   <Text Guid="fb1f5a35-9807-4cd0-8043-321be734018d" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" X_PropType="0" X_Value="445" Y_PropType="0" Y_Value="280" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="184">
     <State Guid="f06450c7-cb86-4819-9dcb-967793c9b794" Name="Text" Version="[1.1.0]">
       <ColorDecorator Guid="6c9c4863-7822-49d4-a58a-c9ef972ccf06" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
@@ -677,36 +507,6 @@
     <State Guid="e4fe3e9d-782b-4950-b34a-424e3e172e17" Name="FlagDisplayState$1" Version="[1.1.0]">
       <ColorDecorator Guid="882c75d4-3d2c-4920-8d8c-5a5c7ee10b66" ID="0" Color="[255 0 255 0]" Blink="0" BlinkColor="[255 211 211 211]" />
       <NoneDecorator Guid="d97e0aeb-5995-4b77-a845-be1af57825d2" ID="1" />
-    </State>
-  </FlagDisplay>
-  <FlagDisplay Guid="37135036-de3f-4b1f-9ce9-8ed56afeccc5" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="625" Y_PropType="0" Y_Value="224" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="a25e3236-aedc-491b-9cad-7120953a0525">
-    <State Guid="68ea6b23-2664-4906-9ba5-64a932b56894" Name="FlagDisplayState$0" Version="[1.1.0]">
-      <ColorDecorator Guid="fd3b88ce-cb25-4c20-a377-e7dc2d853bb2" ID="0" Color="[255 212 212 212]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="dcc40815-0c50-478d-83f4-22ab9dd3198c" ID="1" />
-    </State>
-    <State Guid="a19720da-ab5c-4d23-a7f2-e657977b7ae3" Name="FlagDisplayState$1" Version="[1.1.0]">
-      <ColorDecorator Guid="3908e643-b556-4b1c-9450-3779c9f0877d" ID="0" Color="[255 212 212 212]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="a3e6216b-2518-450e-9f5d-775d30315b55" ID="1" />
-    </State>
-  </FlagDisplay>
-  <FlagDisplay Guid="b21ac071-0427-457a-ad0f-2262043dafb1" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="648" Y_PropType="0" Y_Value="224" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="b57e308f-c9ba-405b-9a54-ce12a4b55e8e">
-    <State Guid="7b6b528e-fa08-492c-944a-e4b0a00c108e" Name="FlagDisplayState$0" Version="[1.1.0]">
-      <ColorDecorator Guid="37c7e58b-0e3d-4725-b700-3fe89f486be3" ID="0" Color="[255 212 212 212]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="7109e348-d2ad-4e2d-9cc5-3e04aced0aa4" ID="1" />
-    </State>
-    <State Guid="506b1a93-054e-4001-8519-bbb69c80d38e" Name="FlagDisplayState$1" Version="[1.1.0]">
-      <ColorDecorator Guid="64c603ff-f006-4e3f-81b0-17c0aece3c58" ID="0" Color="[255 212 212 212]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="1faf6b30-188d-4bdf-9de6-91946b871cc2" ID="1" />
-    </State>
-  </FlagDisplay>
-  <FlagDisplay Guid="787f3b0f-1f1f-415c-829e-43b01e3849f0" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="672" Y_PropType="0" Y_Value="224" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="20716821-f34e-4b81-90e9-66f29ff7f1c8">
-    <State Guid="3a0586b0-dd72-4a08-8e50-75c212910388" Name="FlagDisplayState$0" Version="[1.1.0]">
-      <ColorDecorator Guid="b21bf3a9-2050-4a78-be6a-785553a49627" ID="0" Color="[255 212 212 212]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="2a876d9c-665b-415c-8f61-3b45a61e5a92" ID="1" />
-    </State>
-    <State Guid="1fb4c8e2-d15b-4520-bc7a-cae0bc0dd5c4" Name="FlagDisplayState$1" Version="[1.1.0]">
-      <ColorDecorator Guid="1db532f9-4932-4166-bd50-875a12226707" ID="0" Color="[255 212 212 212]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <NoneDecorator Guid="b7ee5ac2-0bc4-4ea1-9e3c-049640f7ef4f" ID="1" />
     </State>
   </FlagDisplay>
   <FlagDisplay Guid="b48ffeb8-ca49-4db2-83bb-ab198c169c02" LockedPosition="0" ControlSet="10c0438f-5287-46d4-b5b4-aa1eed9c91dd" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="695" Y_PropType="0" Y_Value="224" Width_PropType="0" Width_Value="16" Height_PropType="0" Height_Value="16" MainData_PropType="1" MainData_Tag="e1676c37-7399-4295-9504-afbdc653151f">

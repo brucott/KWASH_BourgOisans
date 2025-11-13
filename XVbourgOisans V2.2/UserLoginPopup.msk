@@ -1,5 +1,5 @@
-<SubScreen Guid="52b5c7d8-1c16-4407-b851-27e63cf855ff" Res="[400 240]" ScreenColor="[0 255 255 255]" ActiveSet="423ca3f2-0eff-46c3-aff8-73515022039c" Name="UserLoginPopup" No="0" Version="[11.0.0]" DefaultResizeMode="0" DefaultAlignmentForUniformStretch="1">
-  <Checksum Value="1444739750" />
+<SubScreen Guid="52b5c7d8-1c16-4407-b851-27e63cf855ff" Res="[300 230]" ScreenColor="[255 106 106 106]" ActiveSet="423ca3f2-0eff-46c3-aff8-73515022039c" Name="UserLoginPopup" No="0" Version="[11.0.0]" DefaultResizeMode="0" DefaultAlignmentForUniformStretch="1">
+  <Checksum Value="3690144066" />
   <SpecFunc Guid="fcaf6b20-b894-4913-9e74-c7a7f4cb3b47" LockedPosition="0" ControlSet="423ca3f2-0eff-46c3-aff8-73515022039c" Name="" Anchor="5" Click="0" FrameStyle="2" FuncID="1287" X_PropType="0" X_Value="10" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="130" Height_PropType="0" Height_Value="60">
     <State Guid="64d46d11-5bb4-45f2-b550-25770ce05b3b" Name="On" Version="[1.1.0]">
       <BackImageDecorator Guid="2c6e2150-b71a-41ae-b8cb-83eabc023cf5" ID="0" Stretched="0" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="c94751af-3f42-4fc1-91a2-d4ef7d55e10f" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />

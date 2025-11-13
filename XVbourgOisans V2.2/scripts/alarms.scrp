@@ -1,0 +1,10 @@
+// Report entrees alarmes sur le tableau
+#.Alarmes[0] := 0.I25;
+#.Alarmes[1] := 0.I26;
+#.Alarmes[2] := 0.I27;
+#.Alarmes[3] := 0.I28;
+#.Alarmes[4] := 0.I30;
+// #.Alarmes[5] := 0.I31;
+
+// Centralisation sur un bit alarme
+#.AlarmEnCours := 0.I25 OR 0.I26 OR 0.I27 OR 0.I28 OR 0.I30;
