@@ -109,6 +109,16 @@
 		<standard Guid="4119ffae-0eb8-44dc-9ec7-08defc37f2d5" textID="121"><![CDATA[Param.]]></standard>
 		<standard Guid="c13460b1-e69e-4a30-a864-c3fd10319405" textID="123"><![CDATA[Reglages constructeur]]></standard>
 		<standard Guid="6a8d011f-75bb-4d30-a9ea-ffe00f7bd5ce" textID="124"><![CDATA[I/O]]></standard>
+		<standard Guid="17357a71-47f4-489b-8439-884f5e1bea4f" textID="125"><![CDATA[Def. pompe hors gel]]></standard>
+		<standard Guid="df600a2c-13c4-4f1f-8805-1397f518a8af" textID="126"><![CDATA[Def. disjoncteur HG]]></standard>
+		<standard Guid="c3c53000-ebda-44bb-b880-d4f654b2d30c" textID="127"><![CDATA[EV HP brosse]]></standard>
+		<standard Guid="14ca74e6-a389-4f0a-a37a-cb0a0c9616e8" textID="128"><![CDATA[EV air brosse]]></standard>
+		<standard Guid="02b38781-b67c-4e73-bc06-14e180c4e099" textID="129"><![CDATA[EV BP hors gel]]></standard>
+		<standard Guid="1bd563f1-d0c2-4f00-9648-0632fa5c3a32" textID="130"><![CDATA[Pompe hors gel]]></standard>
+		<standard Guid="2aca3b34-7c8a-406d-aff4-8b1d7960e6ab" textID="131"><![CDATA[Version du programme automate :]]></standard>
+		<standard Guid="92e76fa6-7b56-4700-bc78-200018d32f12" textID="132"><![CDATA[.]]></standard>
+		<standard Guid="edb1491f-059b-44d4-a70f-66c1b9ec0422" textID="133"><![CDATA[Programme en cours :]]></standard>
+		<standard Guid="3911b473-143e-43f9-b51a-5e276150ee6f" textID="134"><![CDATA[Version du programme écran :]]></standard>
 		<error Guid="64a2c438-7654-47a4-b52e-94adb9d67aa8" textID="0"><![CDATA[Lavage jantes]]></error>
 		<error Guid="0425fbb3-bcac-4536-9e28-2052318543bc" textID="1"><![CDATA[Prélavage]]></error>
 		<error Guid="73021637-f83f-400e-a723-c6751f50b7f0" textID="2"><![CDATA[Canon à mousse]]></error>

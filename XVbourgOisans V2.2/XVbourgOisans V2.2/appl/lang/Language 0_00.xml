@@ -117,6 +117,16 @@
 			<s ID="121"><![CDATA[Param.]]></s>
 			<s ID="123"><![CDATA[Reglages constructeur]]></s>
 			<s ID="124"><![CDATA[I/O]]></s>
+			<s ID="125"><![CDATA[Def. pompe hors gel]]></s>
+			<s ID="126"><![CDATA[Def. disjoncteur HG]]></s>
+			<s ID="127"><![CDATA[EV HP brosse]]></s>
+			<s ID="128"><![CDATA[EV air brosse]]></s>
+			<s ID="129"><![CDATA[EV BP hors gel]]></s>
+			<s ID="130"><![CDATA[Pompe hors gel]]></s>
+			<s ID="131"><![CDATA[Version du programme automate :]]></s>
+			<s ID="132"><![CDATA[.]]></s>
+			<s ID="133"><![CDATA[Programme en cours :]]></s>
+			<s ID="134"><![CDATA[Version du programme écran :]]></s>
 			<s ID="-10"><![CDATA[Delete User Account]]></s>
 			<s ID="-9"><![CDATA[Create User Account]]></s>
 			<s ID="-8"><![CDATA[Change group of user]]></s>

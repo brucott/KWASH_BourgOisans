@@ -1,5 +1,5 @@
 <TagManager Guid="0e7c4593-09fd-4f39-a2f2-1cf19265b157">
-  <Checksum Value="2371489457" />
+  <Checksum Value="2700004342" />
   <CommTags>
     <CommTagsDict CommKey="0">
       <TagContainer Guid="deef41da-5d6d-4788-8ccc-4a70021adac1" Name="0. Modbus TCP easyE4">
@@ -1855,5 +1855,23 @@
       </LimitBit>
       <TagAddress Guid="14d82904-5dd3-462a-9fc3-008baf70effd" IsActive="1" Syntax="" Param1="" Param2="" Param3="" Param4="" Param5="0" UseStdName="1" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
     </BitTag>
+    <ByteTag Guid="1508890c-3b23-4324-b389-f75796f6f3f7" Name="versionProgrammeA" DataType="1" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
+      <LimitByte Guid="24dec141-90ce-4fce-bff3-a4896ed0436e" OpenLimit="1" Signed="1" PresetVal="0">
+        <LimitSettingIntegral Guid="93e5f49e-b11b-4709-b379-a1e49419a3bb" Type="0" Id="0" Value="-128" />
+        <LimitSettingIntegral Guid="36ad045d-e3d3-419a-9b59-f08439c0cb7a" Type="0" Id="1" Value="-128" />
+        <LimitSettingIntegral Guid="edd74cc4-e035-4344-b04c-2b73d54efaf5" Type="0" Id="2" Value="127" />
+        <LimitSettingIntegral Guid="01cd148f-54b1-4e12-9bb1-786a192ea285" Type="0" Id="3" Value="127" />
+      </LimitByte>
+      <TagAddress Guid="524eef72-5f4c-42e0-94f6-a7a8b01919ec" IsActive="1" Syntax="" Param1="" Param2="" Param3="" Param4="" Param5="0" UseStdName="1" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
+    </ByteTag>
+    <ByteTag Guid="1ab44313-cc9c-4fb4-b40f-2c2e9ed9acf9" Name="versionProgrammeB" DataType="1" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
+      <LimitByte Guid="4b677438-2b86-47a6-b9c2-3645d08e5b3a" OpenLimit="1" Signed="1" PresetVal="0">
+        <LimitSettingIntegral Guid="765d534b-b009-4a0f-beb1-ea008b338e7f" Type="0" Id="0" Value="-128" />
+        <LimitSettingIntegral Guid="5c8fc3b2-6fc7-4b66-94ba-bade947ee473" Type="0" Id="1" Value="-128" />
+        <LimitSettingIntegral Guid="3745607d-98c1-41a5-8a90-10bbfb6d6005" Type="0" Id="2" Value="127" />
+        <LimitSettingIntegral Guid="141f88eb-b6d4-47f9-9ea0-3d35b38d246d" Type="0" Id="3" Value="127" />
+      </LimitByte>
+      <TagAddress Guid="0f9b176f-f0a2-4e99-804e-399ebbab14fa" IsActive="1" Syntax="" Param1="" Param2="" Param3="" Param4="" Param5="0" UseStdName="1" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
+    </ByteTag>
   </TagContainer>
 </TagManager>
