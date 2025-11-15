@@ -13,7 +13,7 @@
 		<standard Guid="a14854ab-25ae-4264-9ebe-22be5e841808" textID="11"><![CDATA[Trier]]></standard>
 		<standard Guid="30cadcc1-05d3-4ea0-a896-fba49914f6cb" textID="12"><![CDATA[Sauvegarde]]></standard>
 		<standard Guid="d1f3a2f4-6786-47e3-a855-67f7e7a435f0" textID="13"><![CDATA[Chargement]]></standard>
-		<standard Guid="d6172d79-c2fc-4b21-a877-53a632590867" textID="14"><![CDATA[Masquer]]></standard>
+		<standard Guid="d6172d79-c2fc-4b21-a877-53a632590867" textID="14"><![CDATA[historique]]></standard>
 		<standard Guid="bfefe958-95f6-422a-955c-8a0c28e1df09" textID="16"><![CDATA[Mots de passe :]]></standard>
 		<standard Guid="d606d081-65c1-455a-b41a-b9abc5abbe41" textID="19"><![CDATA[1234]]></standard>
 		<standard Guid="86f06826-404b-456d-a05e-3e03d361a285" textID="20"><![CDATA[Service]]></standard>
@@ -119,6 +119,9 @@
 		<standard Guid="92e76fa6-7b56-4700-bc78-200018d32f12" textID="132"><![CDATA[.]]></standard>
 		<standard Guid="edb1491f-059b-44d4-a70f-66c1b9ec0422" textID="133"><![CDATA[Programme en cours :]]></standard>
 		<standard Guid="3911b473-143e-43f9-b51a-5e276150ee6f" textID="134"><![CDATA[Version du programme écran :]]></standard>
+		<standard Guid="8e44e381-be6a-43ae-bb40-042ac86e97c1" textID="135"><![CDATA[Réarmement pompe]]></standard>
+		<standard Guid="a19bc21c-67a8-4e56-8ed5-63874dc2b4ca" textID="136"><![CDATA[Piste 6]]></standard>
+		<standard Guid="07fcb4ad-5dbc-4e80-a5d5-5e776919ab95" textID="137"><![CDATA[sauvegarde]]></standard>
 		<error Guid="64a2c438-7654-47a4-b52e-94adb9d67aa8" textID="0"><![CDATA[Lavage jantes]]></error>
 		<error Guid="0425fbb3-bcac-4536-9e28-2052318543bc" textID="1"><![CDATA[Prélavage]]></error>
 		<error Guid="73021637-f83f-400e-a723-c6751f50b7f0" textID="2"><![CDATA[Canon à mousse]]></error>
@@ -129,7 +132,9 @@
 		<error Guid="040448ec-cb9b-4f90-aa77-c409bac9afbb" textID="7"><![CDATA[Manque d'eau osmosée]]></error>
 		<error Guid="5a0b719f-e69a-45c9-afbb-6011fa8f22b8" textID="8"><![CDATA[]]></error>
 		<error Guid="e2a71938-00a5-435c-b7ba-1630890a2d2b" textID="9"><![CDATA[Station en hors gel]]></error>
-		<error Guid="ac9ed4be-933f-4797-96a7-d95f8dc3cdb8" textID="10"><![CDATA[Pression faible pompe hors gel]]></error>
+		<error Guid="ac9ed4be-933f-4797-96a7-d95f8dc3cdb8" textID="10"><![CDATA[Hors gel en sécurité (pression faible)]]></error>
 		<error Guid="7b956719-bca0-4ec9-a349-bd0060b7a9f1" textID="11"><![CDATA[Disjoncteur pompe hors gel]]></error>
+		<error Guid="7bbdebc1-26b9-4a62-b8d5-06bab2872a54" textID="12"><![CDATA["Propriétaire" connecté]]></error>
+		<error Guid="ce90ee52-f264-470f-9134-cacce17f2fd9" textID="13"><![CDATA["Service" connecté]]></error>
 	</texts>
 </languageData>

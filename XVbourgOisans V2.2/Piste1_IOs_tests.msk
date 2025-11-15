@@ -1,5 +1,5 @@
 <StandardScreen Guid="59fd8923-256c-4229-ba8f-1a162d8630f3" Res="[800 480]" ScreenColor="[255 192 192 192]" ActiveSet="537a111b-7c7f-4b71-b342-515ad10a0ee9" Name="Piste1_IOs_tests" No="13" Version="[11.0.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="561100d7-339a-4510-95bf-1b945f2ad13d">
-  <Checksum Value="845334510" />
+  <Checksum Value="1052769183" />
   <Text Guid="87d4c5c2-5ab8-4fa0-b01c-5ff76e8ca9bb" LockedPosition="0" ControlSet="537a111b-7c7f-4b71-b342-515ad10a0ee9" Name="" Anchor="5" X_PropType="0" X_Value="200" Y_PropType="0" Y_Value="8" Width_PropType="0" Width_Value="400" Height_PropType="0" Height_Value="52">
     <State Guid="88ce03d2-c60d-47ce-83b4-ec3a7266e34f" Name="Text" Version="[1.1.0]">
       <ColorDecorator Guid="467e3425-b1ab-4cfa-bdf3-00662e9995b0" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
@@ -706,7 +706,7 @@
       <TextDecorator Guid="19d5f4c0-28fa-44e5-911e-064e4f341f55" ID="1" Font="[0,14,0]" Color="[255 233 233 233]" Blink="0" AlignH="0" AlignV="1" Rotation="3" WordBreak="1" MainData_PropType="0" MainData_Value="17357a71-47f4-489b-8439-884f5e1bea4f" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
     </State>
   </Text>
-  <FlagDisplay Guid="f048f4a2-6b55-416e-9d7d-a9b1c19b9421" LockedPosition="0" ControlSet="537a111b-7c7f-4b71-b342-515ad10a0ee9" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="650" Y_PropType="0" Y_Value="220" Width_PropType="0" Width_Value="20" Height_PropType="0" Height_Value="20" MainData_PropType="1" MainData_Tag="c8d17891-a18d-47b7-b39f-dfa0bb1f9bdc">
+  <FlagDisplay Guid="f048f4a2-6b55-416e-9d7d-a9b1c19b9421" LockedPosition="0" ControlSet="537a111b-7c7f-4b71-b342-515ad10a0ee9" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="650" Y_PropType="0" Y_Value="220" Width_PropType="0" Width_Value="20" Height_PropType="0" Height_Value="20" MainData_PropType="1" MainData_Tag="08841646-6a02-4527-94ca-4fb7e258d69c">
     <State Guid="eefc36f1-99b7-41ef-b96a-9d48a809dbab" Name="FlagDisplayState$0" Version="[1.1.0]">
       <ColorDecorator Guid="ea533435-9648-4919-b79d-0c954f3b4949" ID="0" Color="[255 255 0 0]" Blink="0" BlinkColor="[255 211 211 211]" />
       <NoneDecorator Guid="f2a89980-3526-456f-9fc1-d6678599e3ac" ID="1" />
@@ -722,7 +722,7 @@
       <TextDecorator Guid="89b3871b-f5c1-4194-abac-d60a2ffc0dd4" ID="1" Font="[0,14,0]" Color="[255 233 233 233]" Blink="0" AlignH="0" AlignV="1" Rotation="3" WordBreak="1" MainData_PropType="0" MainData_Value="df600a2c-13c4-4f1f-8805-1397f518a8af" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
     </State>
   </Text>
-  <FlagDisplay Guid="efb258b0-6728-493c-aa2a-d1f5c57a69ce" LockedPosition="0" ControlSet="537a111b-7c7f-4b71-b342-515ad10a0ee9" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="670" Y_PropType="0" Y_Value="220" Width_PropType="0" Width_Value="20" Height_PropType="0" Height_Value="20" MainData_PropType="1" MainData_Tag="c8d17891-a18d-47b7-b39f-dfa0bb1f9bdc">
+  <FlagDisplay Guid="efb258b0-6728-493c-aa2a-d1f5c57a69ce" LockedPosition="0" ControlSet="537a111b-7c7f-4b71-b342-515ad10a0ee9" Name="" Anchor="5" FrameStyle="0" StatesPerBit="1" NoStates="2" X_PropType="0" X_Value="670" Y_PropType="0" Y_Value="220" Width_PropType="0" Width_Value="20" Height_PropType="0" Height_Value="20" MainData_PropType="1" MainData_Tag="bc772469-f936-4055-95a0-d58f9d451705">
     <State Guid="15f278e8-26ab-46e1-9f66-a423b050226a" Name="FlagDisplayState$0" Version="[1.1.0]">
       <ColorDecorator Guid="5376aa98-1c65-409e-bbb2-a9167bfa80de" ID="0" Color="[255 255 0 0]" Blink="0" BlinkColor="[255 211 211 211]" />
       <NoneDecorator Guid="79ab277d-2edd-48c5-812e-dea8f85b9994" ID="1" />

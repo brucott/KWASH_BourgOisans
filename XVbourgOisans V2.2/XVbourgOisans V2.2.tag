@@ -1,5 +1,5 @@
 <TagManager Guid="0e7c4593-09fd-4f39-a2f2-1cf19265b157">
-  <Checksum Value="2700004342" />
+  <Checksum Value="168081983" />
   <CommTags>
     <CommTagsDict CommKey="0">
       <TagContainer Guid="deef41da-5d6d-4788-8ccc-4a70021adac1" Name="0. Modbus TCP easyE4">
@@ -532,6 +532,31 @@
           <ArrElem Guid="3eda2ca9-95a3-42f5-9ea6-581faa6d1718" Name="" DataType="2" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
           <ArrElem Guid="a874789f-a283-4a95-848d-b9911995e04e" Name="" DataType="2" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
         </WordArray>
+        <BitArray Guid="3ff88d94-e140-45c6-94f5-b87079531347" Name="M049_M064" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" StartIndex="0">
+          <LimitBit Guid="2c18c883-710e-4ebc-96d3-0ba133e7d0f9" OpenLimit="1" Signed="1" PresetVal="0">
+            <LimitSettingIntegral Guid="898b9d69-446e-4c84-8a57-2907b488dcd2" Type="0" Id="0" Value="0" />
+            <LimitSettingIntegral Guid="e3998c84-df09-4c53-90cf-ada5188b8732" Type="0" Id="1" Value="0" />
+            <LimitSettingIntegral Guid="3c3172a4-4e65-4d58-af0f-6a4e3a7fc569" Type="0" Id="2" Value="1" />
+            <LimitSettingIntegral Guid="2043b1a2-60cc-4c5a-8339-d67f2564be30" Type="0" Id="3" Value="1" />
+          </LimitBit>
+          <TagAddress Guid="1198a3cd-8d0f-446e-b9f5-76e12381afdf" IsActive="1" Syntax="R%d.%d" Param1="1004" Param2="0" Param3="" Param4="" Param5="0" UseStdName="1" UseStdArrayIndex="1" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
+          <ArrElem Guid="328f3b38-6593-4a07-ba3d-ce6ac26093bf" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="dd9717d9-d3c9-4899-9853-94975a47aadd" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="30367357-ca4d-4ca2-b9bb-ff147127586e" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="8e57ce63-d31a-4c63-a3d9-e144ddc07d81" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="ec65ca1a-e472-4a9c-aaa7-010436f6a3d6" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="197eb151-d6ff-4368-8b9d-003962d64244" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="da9ad30a-8f25-4c4f-b833-7bb0bba60882" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="ca23db3d-a36f-4b9d-8b2f-044077510617" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="6c684eb7-24a5-40aa-a144-0760129fbf2b" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="d9c55810-8162-4c6d-a652-a6b69d63459e" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="e057449e-d382-4b3b-8175-045d339e74de" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="d9196cea-0a46-4d40-a8f5-3fcd2c62b889" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="42877747-c210-4be4-96ed-30ee5321d153" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="3123a038-84e3-41f2-a6d4-2752777886fe" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="30a7f85f-918e-4897-bb27-7efdc3bc0067" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+          <ArrElem Guid="2b14d9b8-f08f-4902-a84b-a598746ca478" Name="" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+        </BitArray>
       </TagContainer>
     </CommTagsDict>
     <CommTagsDict CommKey="1">

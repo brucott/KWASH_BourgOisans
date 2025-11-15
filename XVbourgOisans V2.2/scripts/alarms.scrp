@@ -1,10 +1,39 @@
-// Report entrees alarmes sur le tableau
-#.Alarmes[0] := 0.I25;
-#.Alarmes[1] := 0.I26;
-#.Alarmes[2] := 0.I27;
-#.Alarmes[3] := 0.I28;
-#.Alarmes[4] := 0.I30;
-// #.Alarmes[5] := 0.I31;
+// ============================================================================
+// Report entrees alarmes sur le tableau dédié
+// ============================================================================
 
-// Centralisation sur un bit alarme
-#.AlarmEnCours := 0.I25 OR 0.I26 OR 0.I27 OR 0.I28 OR 0.I30;
+#.Alarmes[0] := NOT 0.I25;			// Defaut moteur pompe HP
+#.Alarmes[1] := NOT 0.I26;			// Manque eau
+#.Alarmes[2] := NOT 0.I27;			// Manque eau osmosee
+#.Alarmes[3] := 0.I28;				// Hors gel
+#.Alarmes[4] := NOT 0.I30 AND 0.Q31;	// Defaut capteur pression pompe HG
+#.Alarmes[5] := 0.I31;				// Disjoncteur pompe HG
+
+/*
+if (#.UserManagementTags.LoggedInUserGroup = 0)
+	#.Alarmes[14] := TRUE;				// "Propriétaire" connecté
+	#.Alarmes[15] := FALSE;
+elseif (#.UserManagementTags.LoggedInUserGroup = 1)
+	#.Alarmes[14] := FALSE;
+	#.Alarmes[15] := TRUE;				// "Service" connecté
+else
+	#.Alarmes[14] := FALSE;
+	#.Alarmes[15] := FALSE;
+endif
+*/
+
+// ============================================================================
+// Centralisation sur un bit alarme pour affichage icone
+// ============================================================================
+
+#.AlarmEnCours := (
+	NOT 0.I25 			// Defaut moteur pompe HP
+	OR NOT 0.I26 		// Manque eau
+	OR NOT 0.I27 		// Manque eau osmosee
+	OR 0.I28 			// Hors gel
+	OR (
+		NOT 0.I30 		// Defaut capteur pression pompe HG
+		AND 0.Q31
+	)
+	OR 0.I31			// Disjoncteur pompe HG
+);

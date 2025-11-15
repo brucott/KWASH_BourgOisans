@@ -21,7 +21,7 @@
 			<s ID="11"><![CDATA[Trier]]></s>
 			<s ID="12"><![CDATA[Sauvegarde]]></s>
 			<s ID="13"><![CDATA[Chargement]]></s>
-			<s ID="14"><![CDATA[Masquer]]></s>
+			<s ID="14"><![CDATA[historique]]></s>
 			<s ID="16"><![CDATA[Mots de passe :]]></s>
 			<s ID="19"><![CDATA[1234]]></s>
 			<s ID="20"><![CDATA[Service]]></s>
@@ -127,6 +127,9 @@
 			<s ID="132"><![CDATA[.]]></s>
 			<s ID="133"><![CDATA[Programme en cours :]]></s>
 			<s ID="134"><![CDATA[Version du programme écran :]]></s>
+			<s ID="135"><![CDATA[Réarmement pompe]]></s>
+			<s ID="136"><![CDATA[Piste 6]]></s>
+			<s ID="137"><![CDATA[sauvegarde]]></s>
 			<s ID="-10"><![CDATA[Delete User Account]]></s>
 			<s ID="-9"><![CDATA[Create User Account]]></s>
 			<s ID="-8"><![CDATA[Change group of user]]></s>
@@ -163,8 +166,10 @@
 			<e ID="7"><![CDATA[Manque d'eau osmosée]]></e>
 			<e ID="8"><![CDATA[]]></e>
 			<e ID="9"><![CDATA[Station en hors gel]]></e>
-			<e ID="10"><![CDATA[Pression faible pompe hors gel]]></e>
+			<e ID="10"><![CDATA[Hors gel en sécurité (pression faible)]]></e>
 			<e ID="11"><![CDATA[Disjoncteur pompe hors gel]]></e>
+			<e ID="12"><![CDATA["Propriétaire" connecté]]></e>
+			<e ID="13"><![CDATA["Service" connecté]]></e>
 		</error>
 		<system>
 			<sys ID="0"><![CDATA[%1]]></sys>

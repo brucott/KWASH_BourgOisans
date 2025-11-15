@@ -1,5 +1,5 @@
 <StandardScreen Guid="3b937a85-07fe-489b-b197-ec597b15bdb3" Res="[800 480]" ScreenColor="[255 192 192 192]" ActiveSet="5b1342b0-7a3d-4a86-a573-d50735a737bf" Name="Piste1" No="5" Version="[11.0.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="561100d7-339a-4510-95bf-1b945f2ad13d">
-  <Checksum Value="3311677706" />
+  <Checksum Value="2557099680" />
   <Text Guid="854f756c-c581-451b-ae8f-f2edc23b6e1c" LockedPosition="0" ControlSet="5b1342b0-7a3d-4a86-a573-d50735a737bf" Name="" Anchor="5" X_PropType="0" X_Value="260" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="280" Height_PropType="0" Height_Value="50">
     <State Guid="6bbb050e-411e-42f1-bc6b-3af0e57ba17b" Name="Text" Version="[1.1.0]">
       <ColorDecorator Guid="a5baf5cd-06f8-4862-80dc-66a32b94fd6f" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
@@ -23,6 +23,7 @@
     </State>
   </Text>
   <Button Guid="af663bea-2ab1-47ae-85f8-fcebef43e61e" LockedPosition="0" ControlSet="5b1342b0-7a3d-4a86-a573-d50735a737bf" Name="" Anchor="5" Click="0" Stream="0" Action="2" Bit="0" FrameStyle="2" X_PropType="0" X_Value="290" Y_PropType="0" Y_Value="250" Width_PropType="0" Width_Value="40" Height_PropType="0" Height_Value="40" MainData_PropType="1" MainData_Tag="efafe2cf-0f24-4e19-8d5e-3f4614a47efa" AssignerValue_PropType="0" AssignerValue_Value="M:0">
+    <Accessibility Guid="200d1a31-c809-4f6a-a8f2-d814121a04ee" Tag="4369a20f-5c8b-4ec8-9c65-028b1fa5183a" Disabled="1" Style="5" Color="[255 0 0 0]" />
     <State Guid="af527ba0-93a1-4e9a-a45c-fcc1e3df74cd" Name="On" Version="[1.1.0]">
       <ColorDecorator Guid="eb5eb1dd-bcc4-4550-bfe7-0e2d2a91ae74" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
       <IconImageDecorator Guid="cb967df0-9520-41a7-9c0a-7ec1d8c3e64f" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="c1dd068f-a102-4868-8d66-d51304bf4623" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
@@ -174,6 +175,7 @@
   </FlagDisplay>
   <Rectangle Guid="3454c45f-cb3e-4ed8-81b8-9aaa83f01cd0" LockedPosition="0" ControlSet="5b1342b0-7a3d-4a86-a573-d50735a737bf" Name="" Anchor="5" LineBlink="0" LineBlinkCondition="0" FillBlink="0" FillBlinkCondition="0" X_PropType="0" X_Value="20" Y_PropType="0" Y_Value="240" Width_PropType="0" Width_Value="320" Height_PropType="0" Height_Value="220" LineWidth_PropType="0" LineWidth_Value="3" LineColor_PropType="0" LineColor_Value="[255 0 0 255]" LineColor_Mode="0" LineColor_SetType="0" LineBlinkTag_PropType="1" Filled_PropType="0" Filled_Value="0" FillColor_PropType="0" FillColor_Value="[255 255 255 255]" FillColor_Mode="0" FillColor_SetType="0" FillBlinkTag_PropType="1" Radius_PropType="0" Radius_Value="7" />
   <Button Guid="53360a70-0aa8-45d5-8924-26aa1362f73c" LockedPosition="0" ControlSet="5b1342b0-7a3d-4a86-a573-d50735a737bf" Name="" Anchor="5" Click="0" Stream="0" Action="2" Bit="0" FrameStyle="2" X_PropType="0" X_Value="290" Y_PropType="0" Y_Value="290" Width_PropType="0" Width_Value="40" Height_PropType="0" Height_Value="40" MainData_PropType="1" MainData_Tag="efafe2cf-0f24-4e19-8d5e-3f4614a47efa" AssignerValue_PropType="0" AssignerValue_Value="M:0">
+    <Accessibility Guid="a8bad52d-0bc0-4e5c-abd1-8b5247f11363" Tag="4369a20f-5c8b-4ec8-9c65-028b1fa5183a" Disabled="1" Style="5" Color="[255 0 0 0]" />
     <State Guid="c897a78f-6081-4676-aee0-bd0541f9b5c7" Name="On" Version="[1.1.0]">
       <ColorDecorator Guid="5b46469c-2c6d-4325-8abd-b940c4464d74" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
       <IconImageDecorator Guid="fd8f2011-a4c2-4925-b74b-f30de5312920" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="c1dd068f-a102-4868-8d66-d51304bf4623" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
@@ -184,6 +186,7 @@
     </State>
   </Button>
   <Button Guid="36dec58f-7a58-4a83-9c01-466920f08fe6" LockedPosition="0" ControlSet="5b1342b0-7a3d-4a86-a573-d50735a737bf" Name="" Anchor="5" Click="0" Stream="0" Action="2" Bit="0" FrameStyle="2" X_PropType="0" X_Value="290" Y_PropType="0" Y_Value="330" Width_PropType="0" Width_Value="40" Height_PropType="0" Height_Value="40" MainData_PropType="1" MainData_Tag="efafe2cf-0f24-4e19-8d5e-3f4614a47efa" AssignerValue_PropType="0" AssignerValue_Value="M:0">
+    <Accessibility Guid="bb4465d8-3208-42c4-b0e0-875b66873efb" Tag="4369a20f-5c8b-4ec8-9c65-028b1fa5183a" Disabled="1" Style="5" Color="[255 0 0 0]" />
     <State Guid="817ff691-efe6-414b-ab85-848caa31949f" Name="On" Version="[1.1.0]">
       <ColorDecorator Guid="74105d6c-9a91-4279-86b3-308295258d18" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
       <IconImageDecorator Guid="37507870-8409-49a0-806a-aec400b79c31" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="c1dd068f-a102-4868-8d66-d51304bf4623" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
@@ -194,6 +197,7 @@
     </State>
   </Button>
   <Button Guid="fa24b4a9-c56d-4a8f-ba98-122f6de11d69" LockedPosition="0" ControlSet="5b1342b0-7a3d-4a86-a573-d50735a737bf" Name="" Anchor="5" Click="0" Stream="0" Action="2" Bit="0" FrameStyle="2" X_PropType="0" X_Value="290" Y_PropType="0" Y_Value="370" Width_PropType="0" Width_Value="40" Height_PropType="0" Height_Value="40" MainData_PropType="1" MainData_Tag="efafe2cf-0f24-4e19-8d5e-3f4614a47efa" AssignerValue_PropType="0" AssignerValue_Value="M:0">
+    <Accessibility Guid="a9b3ff03-6e14-4975-960c-5cf44ab04275" Tag="4369a20f-5c8b-4ec8-9c65-028b1fa5183a" Disabled="1" Style="5" Color="[255 0 0 0]" />
     <State Guid="3f6dca0c-b920-4634-a77a-8937579b598b" Name="On" Version="[1.1.0]">
       <ColorDecorator Guid="fec67b41-be60-45cc-8058-185e008f7811" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
       <IconImageDecorator Guid="724d1fbd-587f-479b-93ad-4f49a0e597af" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="c1dd068f-a102-4868-8d66-d51304bf4623" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
@@ -204,6 +208,7 @@
     </State>
   </Button>
   <Button Guid="1c6991db-5914-42e2-b835-6688d1704c16" LockedPosition="0" ControlSet="5b1342b0-7a3d-4a86-a573-d50735a737bf" Name="" Anchor="5" Click="0" Stream="0" Action="2" Bit="0" FrameStyle="2" X_PropType="0" X_Value="290" Y_PropType="0" Y_Value="410" Width_PropType="0" Width_Value="40" Height_PropType="0" Height_Value="40" MainData_PropType="1" MainData_Tag="efafe2cf-0f24-4e19-8d5e-3f4614a47efa" AssignerValue_PropType="0" AssignerValue_Value="M:0">
+    <Accessibility Guid="83bfc8ab-98a7-4d0b-ac2a-c7bc750df764" Tag="4369a20f-5c8b-4ec8-9c65-028b1fa5183a" Disabled="1" Style="5" Color="[255 0 0 0]" />
     <State Guid="f2d85547-ae9e-4362-9c84-020e02843a9a" Name="On" Version="[1.1.0]">
       <ColorDecorator Guid="37d81032-598c-4589-99d5-207acd1ce159" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
       <IconImageDecorator Guid="88ff298e-1757-4741-9743-58c0a77d7c54" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="c1dd068f-a102-4868-8d66-d51304bf4623" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
