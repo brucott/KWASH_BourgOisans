@@ -5,8 +5,8 @@
 #.Alarmes[0] := NOT 0.I25;			// Defaut moteur pompe HP
 #.Alarmes[1] := NOT 0.I26;			// Manque eau
 #.Alarmes[2] := NOT 0.I27;			// Manque eau osmosee
-#.Alarmes[3] := 0.I28;				// Hors gel
-#.Alarmes[4] := NOT 0.I30 AND 0.Q31;	// Defaut capteur pression pompe HG
+#.Alarmes[3] := 0.Q31 AND 0.I30;		// Pompe hors gel active
+#.Alarmes[4] := 0.Q24;				// Defaut capteur pression pompe HG
 #.Alarmes[5] := 0.I31;				// Disjoncteur pompe HG
 
 /*
@@ -27,13 +27,10 @@ endif
 // ============================================================================
 
 #.AlarmEnCours := (
-	NOT 0.I25 			// Defaut moteur pompe HP
-	OR NOT 0.I26 		// Manque eau
-	OR NOT 0.I27 		// Manque eau osmosee
-	OR 0.I28 			// Hors gel
-	OR (
-		NOT 0.I30 		// Defaut capteur pression pompe HG
-		AND 0.Q31
-	)
-	OR 0.I31			// Disjoncteur pompe HG
+	NOT 0.I25 				// Defaut moteur pompe HP
+	OR NOT 0.I26 			// Manque eau
+	OR NOT 0.I27 			// Manque eau osmosee
+	OR (0.Q31 AND 0.I30)		// Pompe hors gel active
+	OR 0.Q24				// Defaut capteur pression pompe HG
+	OR 0.I31				// Disjoncteur pompe HG
 );

@@ -131,8 +131,8 @@
 		<error Guid="a112d4c6-a419-4b56-bcea-4cc061cbee0d" textID="6"><![CDATA[Manque d'eau]]></error>
 		<error Guid="040448ec-cb9b-4f90-aa77-c409bac9afbb" textID="7"><![CDATA[Manque d'eau osmosée]]></error>
 		<error Guid="5a0b719f-e69a-45c9-afbb-6011fa8f22b8" textID="8"><![CDATA[]]></error>
-		<error Guid="e2a71938-00a5-435c-b7ba-1630890a2d2b" textID="9"><![CDATA[Station en hors gel]]></error>
-		<error Guid="ac9ed4be-933f-4797-96a7-d95f8dc3cdb8" textID="10"><![CDATA[Hors gel en sécurité (pression faible)]]></error>
+		<error Guid="e2a71938-00a5-435c-b7ba-1630890a2d2b" textID="9"><![CDATA[Pompe hors gel active]]></error>
+		<error Guid="ac9ed4be-933f-4797-96a7-d95f8dc3cdb8" textID="10"><![CDATA[Hors gel en sécurité (problème pompe hors gel)]]></error>
 		<error Guid="7b956719-bca0-4ec9-a349-bd0060b7a9f1" textID="11"><![CDATA[Disjoncteur pompe hors gel]]></error>
 		<error Guid="7bbdebc1-26b9-4a62-b8d5-06bab2872a54" textID="12"><![CDATA["Propriétaire" connecté]]></error>
 		<error Guid="ce90ee52-f264-470f-9134-cacce17f2fd9" textID="13"><![CDATA["Service" connecté]]></error>
